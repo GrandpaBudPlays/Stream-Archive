@@ -16,9 +16,9 @@
 ---
 
 ## 🎭 BRAND IDENTITY & LORE
-*   **The Othala-Garth:** The Home Land continent.
-*   **The Othala Sanctuary:** The inner sanctum (Phonetic: *o-THAH-la*).
-*   **The Westshore:** The defensive agricultural perimeter.
+*   **The Othala-Garth:** The Home Land continent. This is the land where Conrad first arrived at the Scaraficial Stones and where he built his home, Othala.
+*   **The Othala Sanctuary:** The inner sanctum (Phonetic: *o-THAH-la*). Conrads retreat from adventuring providing him sacutary from the whims of the Foresaken.
+*   **The Westshore:** The defensive agricultural perimeter. A area seperate Othala in hopes of protecting his livestock and crops.
 *   **The Norns:** The architects of fate and commentary hooks.
 
 ---
