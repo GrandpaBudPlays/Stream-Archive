@@ -3,6 +3,9 @@
 **Project Goal:** A master repository for live stream transcripts, metadata, and lore. This archive serves as the "Gold Mine" for searching raw dialogue and creating the "Abridged Saga" highlight series.
 
 ---
+# 🛡️ THE CONRAD SAGA: Valheim Archive
+**📺 [Watch the Full Saga on YouTube](https://www.youtube.com/playlist?list=PLLLwpTakAlMs3EAexfe5GWeR0byjILky6)
+---
 
 ## 🎭 BRAND IDENTITY & VOICE
 *   **Tone:** Authentic, Insightful, Empathetic, and Lore-driven.
@@ -11,8 +14,8 @@
 
 ### 🏛️ THE GEOGRAPHY
 *   **The Othala Sanctuary (Home Base):** The inner sanctuary where rest, organization, and planning occur. Named after the ancient rune for "Inherited Home." 
-    *   **Phonetics:** *o-THAH-la* (Rhymes with "Olathe" / "Koala")
-*   **The Westshore:** The defensive farming and livestock perimeter. Separated from the Sanctuary to mitigate raid risks during long periods of labor.
+    *   **Phonetics:** *o-THAH-la* (Rhymes with "Koala")
+*   **Westshore:** The defensive farming and livestock perimeter. Separated from the Sanctuary to mitigate raid risks during long periods in Othala.
 
 ### 📜 THE LEXICON
 *   **Draugr:** Pronounced *DROW-gur*.
