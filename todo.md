@@ -18,3 +18,9 @@
 - [ ] **Populate Archive:** Backfill Episodes 1–11 from raw transcripts.
 - [ ] **Lore Bible:** Define the Norns, Othala Sanctuary, and Westshore defensive strategy.
 - [ ] **AI Integration:** Connect the repo to Google AI for deep narrative analysis.
+
+## 🏔️ SAGA IV: FROZEN VOWS (CURRENT)
+- [ ] **The Island Hopping Hunt:** Locate the 2nd Early Axe Head on Eastern Isles.
+- [ ] **Silver Tier Gear:** Craft the Wolf Armor for mountain survival.
+- [ ] **The Mountain Draugr:** Document the "Map of Shadows" entry for the mountain ruins.
+

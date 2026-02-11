@@ -17,19 +17,11 @@
 
 ## 🎭 BRAND IDENTITY & LORE
 *   **The Othala-Garth:** The Home Land continent. This is the land where Conrad first arrived at the Scaraficial Stones and where he built his home, Othala.
-*   **The Othala Sanctuary:** The inner sanctum (Phonetic: *o-THAH-la*). Conrads retreat from adventuring providing him sacutary from the whims of the Foresaken.
-*   **The Westshore:** The defensive agricultural perimeter. A area seperate Othala in hopes of protecting his livestock and crops.
+*   **The Othala Sanctuary:** The inner sanctum (Phonetic: *o-THAH-la*). Conrads retreat from adventuring providing him Sanctuary from the whims of the Foresaken.
+*   **The Westshore:** The defensive agricultural perimeter. A area separate from Othala in hopes of protecting his livestock and crops.
 *   **The Norns:** The architects of fate and commentary hooks.
 
 ---
-
-## 🗂️ REPOSITORY STRUCTURE
-- `/archive/Saga[X]-E[XX]-[Title].md`
-- `TODO.md` (Production Roadmap)
-- `LORE_BIBLE.md` (Lexicon and World History)
-
----
-
 
 ## 🎭 BRAND IDENTITY & VOICE
 *   **Tone:** Authentic, Insightful, Empathetic, and Lore-driven.
@@ -48,7 +40,13 @@
 ---
 
 ## 🗂️ REPOSITORY STRUCTURE
-Each episode is documented in the `/archive/` folder using a single `.md` file with the following sections:
+
+- `/archive/Saga[X]/E[XXX]-transcript.md`
+- `TODO.md` (Production Roadmap)
+- `LORE_BIBLE.md` (Lexicon and World History)
+
+---
+Each episode is documented in the `/archive/` folder under a Subfolder for each Saga using a single `.md` file with the following sections:
 
 - **🎬 TITLE:** The SEO-optimized YouTube title.
 - **📜 DESCRIPTION:** The final narrative description used on YouTube.
@@ -68,25 +66,4 @@ Each episode is documented in the `/archive/` folder using a single `.md` file w
 ## 📜 LICENSE
 Licensed under **CC BY-NC-ND 4.0**. Lore and transcripts are the property of Grandpa Plays Valheim.
 
-
-
-## 📜 THE SAGAS
-1. **Saga I: The Exile’s First Hearth** (The Meadows)
-2. **Saga II: Shadows Beneath the Pines** (The Black Forest)
-3. **Saga III: Oaths in Iron** (The Swamps)
-4. **Saga IV: Frozen Vows** (The Mountains - CURRENT)
-
 ---
-
-## 🎭 BRAND IDENTITY & LORE
-*   **The Othala-Garth:** The Home Land continent.
-*   **The Othala Sanctuary:** The inner sanctum (Phonetic: *o-THAH-la*).
-*   **The Westshore:** The defensive agricultural perimeter.
-*   **The Norns:** The architects of fate and commentary hooks.
-
----
-
-## 🗂️ REPOSITORY STRUCTURE
-- `/archive/Saga[X]-E[XX]-[Title].md`
-- `TODO.md` (Production Roadmap)
-- `LORE_BIBLE.md` (Lexicon and World History)
