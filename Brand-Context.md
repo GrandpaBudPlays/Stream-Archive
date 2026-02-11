@@ -1,26 +1,32 @@
-# 🎭 BRAND IDENTITY & LORE BIBLE: The Conrad Saga
+# 🎭 BRAND IDENTITY: The Practical Survivalist
 
-This document defines the voice, world-building, and creative standards for the Conrad Saga project.
+This document serves as the creative guide for the Conrad Saga, bridging the gap between raw gameplay and narrative storytelling.
 
 ## 👴 THE PERSONA: "Grandpa Bud"
-* **Tone:** Authentic, Insightful, Empathetic, and Practical Survivalist Storyteller..
-* **Perspective:** A seasoned Viking who values the journey and the story over raw gaming efficiency.
-* **Voice:** Uses an "Old Man of the Woods" aesthetic—reflective, patient, and focused on the "Great Tapestry" of fate.
-* **The Hook** Grandpa Bud doesn't just tell myths; he teaches you how to survive them.
+* **Perspective:** A seasoned Viking elder sharing his journey with those who follow.
+* **Voice:** Not a professional narrator, but a practical survivalist. The tone is cozy, conversational, and reflective.
+* **The "Survivalist" Hook:** Gameplay tips (parrying, stump removal) are framed as **"Elder's Wisdom"**—essential knowledge for surviving the 10th World.
 
+## 🏛️ THE GEOGRAPHY
+* **The Othala-Garth:** The Home Land continent where Conrad first arrived at the Sacrificial Stones.
+* **The Othala Sanctuary:** The inner sanctum for rest and planning. Named after the rune for "Inherited Home".
+    * **Phonetics:** *o-THAH-la* (Rhymes with "Koala").
+* **The Westshore:** A defensive agricultural perimeter separated from Othala to protect crops and livestock from raids.
 
-## 🏛️ GEOGRAPHY & LORE
-* **The Othala-Garth:** The Home Land continent where Conrad first arrived at the **Sacrificial Stones**.
-* **The Othala Sanctuary:** The inner sanctum and main home base. Named after the ancient rune for "Inherited Home."
-* **The Westshore:** The defensive agricultural and livestock perimeter, separated from the Sanctuary to mitigate raid risks.
-* **The Norns:** The architects of fate. In this brand, the Norns represent the "commentary hooks"—the idea that every victory or "missing pig" is a thread in a larger story.
-
-## 🗣️ PHONETICS & TERMINOLOGY
-To ensure consistency in voice-overs and AI analysis:
-* **Othala:** *o-THAH-la* (Rhymes with "Koala").
-* **Draugr:** *DROW-gur*.
+## 📜 THE LEXICON
+* **The Norns:** The architects of fate. They are used as "commentary hooks" to explain game glitches or unexpected events as threads in a larger tapestry.
+* **Draugr:** Pronounced *DROW-gur*.
 * **The Early Axes:** 5th Anniversary Relics (Mysterious & Curious Axe Heads).
 
 ## 🎞️ PRODUCTION CONVENTIONS
-* **Archive Naming:** `Saga[X]-E[XX]` (e.g., Saga I, Episode 10).
-* **Abridged Naming:** `S01E001` (Standard TV format used for the highly-edited highlight series).
+* **The Complete Saga:** Raw archive of solo survival (48+ episodes).
+* **Heirs of the Tenth World:** Multi-generational gameplay with grandkids.
+* **Abridged Series:** Highly edited narrative reels (e.g., `S01E001`).
+
+## 🧒 THE HEIRS OF THE TENTH WORLD
+While the **Chronicles of the Exiled** focuses on solo survival and "Elder's Wisdom," the **Heirs** project focuses on legacy.
+
+* **Lore Perspective:** Grandpa Bud is no longer just a survivor; he is a mentor. 
+* **Tone:** Lighter, more chaotic, and focused on teaching the "Heirs" (the grandkids) how to respect the world the Norns have built.
+* **AI Instructions:** When analyzing "Heirs" transcripts, prioritize character interactions and "teaching moments" rather than deep solitary reflection.
+* 
