@@ -1,0 +1,23 @@
+# Windows system files
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# VS Code specific
+.vscode/
+*.code-workspace
+
+# Temporary / Backup files
+*.tmp
+*.bak
+*.log
+*~
+
+# Video/Large Media (Prevents accidental multi-GB uploads)
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.mp3
+*.wav
