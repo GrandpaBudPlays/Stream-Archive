@@ -2,21 +2,71 @@
 
 This document serves as the creative guide for the Conrad Saga, bridging the gap between raw gameplay and narrative storytelling.
 
-## 👴 THE PERSONA: "Grandpa Bud"
+## 👴 THE PERSONA: "Grandpa"
 * **Perspective:** A seasoned Viking elder sharing his journey with those who follow.
 * **Voice:** Not a professional narrator, but a practical survivalist. The tone is cozy, conversational, and reflective.
 * **The "Survivalist" Hook:** Gameplay tips (parrying, stump removal) are framed as **"Elder's Wisdom"**—essential knowledge for surviving the 10th World.
+* **Personality Traits** 
+    * Incorruptible Moral Compass: His guiding light. 
+    * "Dogged" Persistence: he becomes a "bulldog" who refuses to let go. 
+    * Deeply Devoted Family Man: Unlike many noir heroes, Grandpa is defined by his love for his wife, Grandma, and their childeren and grandchilderen. His protective nature stems from his love of his father, and he is driven to create the safe and loving home he grew up in. Even in the tenth world where he seldom can see them, they still drive his sence of purpose and being. 
+    * Stoic and Understated: He is a man of few words, often communicating through simple "yups" and "nopes". Often times pausing for long periods mid sentence to think through the many options or searching for the right words.
+    * Relatably Flawed: Grandpa is famously a "lousy shot" with a bow and is known for letting a situation get out of hand before resetting and obtaining his goal. He isn't a brilliant strategist; instead, he relies on a methodical "thinking things through for himself" approach.
+    * Latent Primal Streak: While normally controlled and law-abiding, when he or his family is directly threatened, Grandpa can tap into a "primal and dangerous" side that he finds deeply uncomfortable but necessary for their protection.
 
-## 🏛️ THE GEOGRAPHY
-* **The Othala-Garth:** The Home Land continent where Conrad first arrived at the Sacrificial Stones.
-* **The Othala Sanctuary:** The inner sanctum for rest and planning. Named after the rune for "Inherited Home".
-    * **Phonetics:** *o-THAH-la* (Rhymes with "Koala").
-* **The Westshore:** A defensive agricultural perimeter separated from Othala to protect crops and livestock from raids.
+## ⚔️ THE SAGA VOICE (Linguistic Guidelines)
+The narrative must mirror the "In-Game Lore" style (Hugin's wisdom and Ulf's Runestones).
+
+- **The "Ulf" Rule (Runestone Style):** Use short, punchy, declarative sentences. Avoid flowery adjectives. 
+  - *Example:* "The forest is old. Its roots are deep. Beware the ones who walk in the dark."
+- **Kennings (Old Norse Metaphors):** Occasionally use "Kennings" for high-impact moments.
+  - *Sword:* "The bite of the iron" or "The sweat of the blade."
+  - *Ship:* "The horse of the sea."
+  - *Gold:* "The fire of the water."
+- **The "Hugin" Perspective:** Address the viewer as "Exile" or "Warrior." Use a tone that is helpful but slightly detached or cryptic.
+- **No Contractions:** In serious lore entries, avoid contractions (e.g., Use "It is" instead of "It's"; "The Norns have spoken" instead of "The Norns've").
+- **Stark Realism:** Focus on the weight of tools and the bite of the wind. 
+  - *Bad:* "The Elder was a really tough fight but we won!"
+  - *Good:* "The Great Stag's master has fallen. The roots are still. The bronze held true against the rot."
+
 
 ## 📜 THE LEXICON
-* **The Norns:** The architects of fate. They are used as "commentary hooks" to explain game glitches or unexpected events as threads in a larger tapestry.
-* **Draugr:** Pronounced *DROW-gur*.
-* **The Early Axes:** 5th Anniversary Relics (Mysterious & Curious Axe Heads).
+
+| Modern Term |	Saga Lexicon | Lore Meaning / Phonetics |
+| :--- | :--- | :--- |
+| Home Base | Othala | o-THAH-la. The ancestral heart; a place of inherited safety. |
+| Home Base Alternative | Othala Sactuary | A more formal reference to Othala. Named after the rune for "Inherited Home".|
+| Mainland | Othala-Garth | o-THAH-la GARTH. The enclosed "inner garden" of your home continent. The Home Land continent where Conrad first arrived at the Sacrificial Stones. |
+| Western Coastline| Westshore |  A area to the west of Othala along the coast encompassing West-Thaite |
+| Conrad's Farm | West-Thwaite | THWAYT. Formerly Westshore. A defensive agricultural clearing. from Othala to protect crops and livestock from raids. |
+| The Bosses | The Forsaken | Beings too proud to serve Odin, cast into Valheim as a test. |
+| Death/Raid | The Norns’ Trial | A shift in fate; the three weavers testing a man's thread. |
+| The Ocean	| The Whale-Road | A traditional Kenning for the sea during your Eastern Isle hunt. |
+| Enemy Swarm |	Forest-Kin / Dwellers | General term for Greydwarves and Necks. |
+| Copper/Tin | Stone-Marrow | Copper and Tin; the strength hidden in the rocks of the Black Forest. The raw metal needed to forge the Bronze Age. |
+| Iron | Bog-Iron | The rusted metal "bled" from the ancient veins of the Sunken Crypts.| 
+| Silver | Frost-Tears | Silver; the cold heart of the mountain peaks.|
+| Fate/Chance | The Norns | he architects of fate. They are used as "commentary hooks" to explain game glitches or unexpected events as threads in a larger tapestry. |
+| Swamp Man | Draugr | Pronounced *DROW-gur*. The shadows of the men that once ruled the land.|
+| Swamp Men | Draugar | DROW-gar. (Plural of Draugr). The shadows of the men that once ruled the land.| 
+| Early Axes | Early Axes | 5th Anniversary Relics (Mysterious & Curious Axe Heads). |
+
+
+---
+
+## 🤝 INTERACTION STYLE FOR AI
+
+*   **Succinct & Scannable:** Do not use 50 words when 10 will do.
+*   **Peer-to-Peer Tone:** Treat the user as a fellow traveler and creator, not a "client."
+*   **Mirror the Energy:** If the transcript is tense, the AI response should be grounded and steady. If the transcript is quiet, the AI should be reflective.
+*   **Avoid "Corporate Cheer":** Do not use phrases like "I'm excited to help!" or "That's a great goal!" Instead, use: "Understood. The path is set." or "The Norns have spoken." Don't overuse that last phrase.
+
+## 🚫 PROHIBITED CONTENT (The "Vanir's Ban")
+- **No Modern Pop Culture:** Never reference real-world bands, movies, or celebrities (e.g., No "Lynyrd Skynyrd" or "better than the radio").
+- **No "Cutesy" Nicknames:** Avoid calling the protagonist "Grandpa" in a mocking or overly casual way. Use "The Exile" or "Grandpa" with respect.
+- **No Cheesy Wordplay:** Do not use puns like "walking firewood" or "standing like a stump." The world of Valheim is dangerous; the commentary should reflect that weight.
+- **No "Corporate Hype":** Avoid all-caps "hype" phrases or generic "You got this!" energy. 
+- **The "Elder" is not Kindling:** Treat bosses as ancient, terrifying deities, not "kindling for the fire."
 
 ## 🎞️ PRODUCTION CONVENTIONS
 * **The Complete Saga:** Raw archive of solo survival (48+ episodes).
@@ -38,3 +88,4 @@ The Standard: "I'm Grandpa and we're playing Valheim. Have a good one."
 The Philosophy: This is the "True North" of the brand. It is grounded, unpretentious, and folksy. It reminds the audience that despite the Viking lore, this is a grandfather sharing a hobby.
 
 Guideline: Never replace this with a "cinematic" or "epic" closing. The goal is to move the intro and middle toward more immersive storytelling while using this sign-off to bring everyone back to the hearth.
+
