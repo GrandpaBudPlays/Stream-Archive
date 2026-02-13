@@ -2,7 +2,7 @@
 
 ## 🎞️ VIDEO METADATA
 * **Original Air Date:** 01/08/2026
-* **YouTube Link:** [Link Video]]
+* **YouTube Link:** [Link Video]
 * **Playlist:** Chronicles of the Exiled (Solo)
 * **Series Playlist:** Saga I: The Exile's First Hearth (The Meadows) | Grandpa Plays Valheim
 * **Location:** The Meadows

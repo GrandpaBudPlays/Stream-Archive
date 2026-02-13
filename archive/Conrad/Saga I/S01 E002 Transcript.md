@@ -43,33 +43,36 @@ If you want to play along on this same map, the seed is L4y2XbwA0V. Let me know 
 
 Note: Last three characters of the seed are A, zero, V.
 
-I
 ### 👴 ELDER’S WISDOM (Practical Survival)
 
-* **[02:53] - The 30-Minute Cycle:** Wisdom on the rhythm of the world—20 minutes of light and 10 of dark—and the absolute necessity of being indoors before the shadows grow long.
-* **[09:28] - The Weaver’s Diet:** A breakdown of the fork system—Yellow for stamina, Red for health, and White for balance. Vital knowledge for any Heir looking to keep their feet moving.
-* **[14:52] - Hardwood Patience:** A clever trick to "cheat" the Norns; using falling beach trees to break birch logs for fine wood before you even own a bronze axe.
-* **[22:11] - The Poison in the Walls:** A warning about the "hum" in abandoned structures—beehives can be a death sentence for an unarmored Exile.
-* **[28:45] - The Rested Buff:** Explaining why a Viking never works without the comfort of a fire and a roof. The "Rested" state is crucial for stamina and skill gain.
-
-### 🏛️ GEOGRAPHY & LORE
-
-* **The World Seed:** The blueprint for this journey is officially recorded as `L4y2XbwA0V`.
-* **Sacrificial Altars:** Discovery of the Altar of the Great Stag (Eikthyr), marking the first trial set by the Allfather.
-* **Sanctuary Foundations:** The establishment of the first lean-to platform near a campfire, claiming a spawn point before the first night truly took hold.
+* **[02:59] - The Weaver’s Diet:** A detailed explanation of managing the mix between stamina and health. It covers how to consume three different food types—specifically red, white, and yellow sources—to balance your physical needs.
+* **[09:11] - Loot of the Fallen:** Wisdom on the value of finding arrows and treasure in abandoned chests. Flint arrows are highlighted as a significant early-game upgrade over basic wood arrows.
+* **[11:32] - The Strength of Stars:** An observation on "starred" creatures, noting that they are larger, possess more health, and provide more resources upon defeat than their standard counterparts.
+* **[14:52] - Reading the Heavens:** A guide to telling time using the sun's position relative to your mini-map, where 3:00 represents morning, 6:00 is noon, and 9:00 is evening.
+* **[21:49] - The Night's Aggression:** A warning that the world becomes more dangerous and aggressive once the "Cold" debuff appears, signaling the arrival of nighttime.
+* **[28:11] - The Life of the Forge:** Instructions on using the workbench to repair tools and armor. Unlike torches, which burn out, your metal and wood equipment can be maintained indefinitely at a station.
 
 ### 🎞️ ABRIDGED SERIES GOLD (Character & Hooks)
 
-* **[00:49] - The "Leonard Skynyrd" Look:** A classic Grandpa-ism during character creation, establishing Conrad's red-headed, mustachioed grit.
-* **[01:37] - The Humble Veteran:** "I got too many hours in this to even mention"—grounding the persona as a seasoned mentor rather than a "pro-gamer".
-* **[12:15] - The Greeting Party:** A moment of rising tension as the Greylings begin to realize Conrad has arrived and "don't want us here".
-* **[27:51] - The Midnight Rush:** The frantic race against the setting sun to slap a roof over the bed while the forest begins to wake up.
+* **[01:27] - The Warm Welcome:** "Welcome back. I'm Grandpa and I'm here to play Valheim." — A simple, consistent opening that establishes the mentor persona.
+* **[04:47] - Avoiding the Lore-Breaker:** "I'm going to try to avoid [spoilers] whenever I can." — Showing a commitment to an authentic, first-time discovery experience for the audience.
+* **[07:24] - The Grandpa-ism:** Insisting on calling them "raspberries" despite the in-game text, adding a touch of personal character to the commentary.
+* **[10:13] - The Old Man's Wind:** Maintaining a steady pace while exploring and emphasizing the need to keep stamina in reserve "just in case you encounter something you need to fight".
+* **[22:01] - The Humble Admission:** "Kind of messed up by not getting a shelter before nightfall." — An honest moment of vulnerability when caught unprepared by the setting sun.
+* **[27:40] - The Midnight Duel:** A high-tension moment facing the night with a broken hammer and a club on the verge of snapping, forcing a potential "fist-fight" finish to the day.
 
 ### ⚒️ PRODUCTION NOTES
+Abridged Potential: High. This episode captures the essential "First Steps" arc, moving from a naked exile to a sheltered warrior.
 
-* **Abridged Potential:** **High.** This episode captures the essential "First Steps" arc, moving from a naked exile to a sheltered warrior.
-* **Thumbnail/Hook Idea:** "An Old Man in a Young Man's Game" — Featuring Conrad with his stone axe at the Eikthyr altar.
-* **Final Anchor:** The episode concludes with your signature: *"I'm Grandpa and this is Grandpa Plays. Have a great day"*.
+Thumbnail/Hook Idea: "The Wisdom of the Hearth" — Featuring Conrad at the cooking spit or workbench. It leans into the "Mentor" persona more effectively than the Eikthyr altar shot, as the altar discovery is a brief moment compared to the focus on survival basics.
+
+Persona Opportunity: At [14:44], you discuss telling time by the sun. This is a prime spot to use the "Elder's Wisdom" hook to explain how a veteran tracks the daylight without a clock.
+
+Lore Integration: When encountering the Abandoned Village at, the narrative description could be strengthened by using the term "Othala" to describe the search for an ancestral home or the foundations of a new sanctuary.
+
+Character Flaw Hook: Use the [07:24] "Raspberries" debate as a lighthearted character moment. It reinforces the "Relatably Flawed" trait—a stubborn grandpa who calls things by his own names despite what the "game" says.
+
+Technical Note: The audio "winds of the North" disclaimer is a great touch. It maintains the "Practical Survivalist" voice even when addressing real-world recording issues.
 
 ---
 
