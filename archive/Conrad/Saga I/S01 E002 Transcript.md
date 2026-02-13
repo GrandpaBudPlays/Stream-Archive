@@ -7,9 +7,6 @@
 * **Series Playlist:** Saga I: The Exile's First Hearth (The Meadows) | Grandpa Plays Valheim
 * **Location:** The Meadows
 
-## 🏷️ SEARCH TAGS
-Valheim,Grandpaplays,Grandpa Plays,Grandpa,Playthrough,Grandpa Plays Valheim,Grandpa Gamer,Slow Gaming,Cozy Survival,Survival Games,PC Gaming,Valheim Lore Playthrough,Conrad the Exile,Valhalla Quest,Norse Mythology Gaming Solo Survival,Senior Gamer,Wholesome Gaming,Valheim Meadows Guide,Valheim Map Markers,Valheim World Generation,Valheim Black Forest Entry,Valheim Runestones,Valheim Night Survival,beginners,finding the Black Forest Valheim
-
 ## 📜 NARRATIVE DESCRIPTION
 A new dawn breaks over the 10th World. Conrad spends the morning at the hearth, reflecting on the lessons the Allfather has already provided. The Meadows are vast, but the call of the Black Forest is growing louder.
 
@@ -42,6 +39,9 @@ The winds of the North were still interfering with my recording gear in these ea
 If you want to play along on this same map, the seed is L4y2XbwA0V. Let me know how your start compares to Conrad's!
 
 Note: Last three characters of the seed are A, zero, V.
+
+## 🏷️ SEARCH TAGS
+Valheim,Grandpaplays,Grandpa Plays,Grandpa,Playthrough,Grandpa Plays Valheim,Grandpa Gamer,Slow Gaming,Cozy Survival,Survival Games,PC Gaming,Valheim Lore Playthrough,Conrad the Exile,Valhalla Quest,Norse Mythology Gaming Solo Survival,Senior Gamer,Wholesome Gaming,Valheim Meadows Guide,Valheim Map Markers,Valheim World Generation,Valheim Black Forest Entry,Valheim Runestones,Valheim Night Survival,beginners,finding the Black Forest Valheim,Grandpa Bud
 
 ### 👴 ELDER’S WISDOM (Practical Survival)
 

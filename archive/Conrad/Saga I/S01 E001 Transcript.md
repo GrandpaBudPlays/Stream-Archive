@@ -7,9 +7,6 @@
 * **Series Playlist:** Saga I: The Exile's First Hearth (The Meadows) | Grandpa Plays Valheim
 * **Location:** The Meadows
 
-## 🏷️ SEARCH TAGS
-Valheim,Grandpaplays,Grandpa Plays,Grandpa,Playthrough,Valheim, Valheim Character Creation, Valheim World Seed, Valheim First Shelter, Valheim Meadows Guide, Valheim Beginners 2026, Conrad the Exile, Grandpa Plays Valheim, Grandpa Gamer, Senior Gamer, Wholesome Gaming, Slow Gaming, Cozy Survival, Solo Survival, Valheim Lore Playthrough, Norse Mythology Gaming, Survival Games PC
-
 ## 📜 NARRATIVE DESCRIPTION
 They sent Conrad to the 10th World with nothing but the rags on his back and the call of the ravens in his ears. His quest is simple: slay the Forsaken or be forever exiled from the halls of Valhalla. He’s an old man in a young man's game, but he’s got the patience of the forest and the iron will of the North.
 Today, the trial begins in the Meadows. We build, we hunt, and we take our first steps toward proving to Odin that Conrad is worthy of the high seat.
@@ -39,6 +36,8 @@ If you want to play along on this same map, the seed is L4y2XbwA0V. Let me know 
 
 Note: Last three characters of the seed are A, zero, V.
 
+## 🏷️ SEARCH TAGS
+Valheim,Grandpaplays,Grandpa Plays,Grandpa,Playthrough,Valheim Character Creation,Valheim World Seed,Valheim First Shelter,Valheim Meadows Guide,Valheim Beginners 2026,Conrad the Exile,Grandpa Plays Valheim,Grandpa Gamer,Senior Gamer,Wholesome Gaming,Slow Gaming,Cozy Survival,Solo Survival,Valheim Lore Playthrough,Norse Mythology Gaming,Survival Games PC,Grandpa Bud,Grandpa Bud Plays
 ---
 
 ## ✨ SURVIVAL WISDOM & HIGHLIGHT GOLD
