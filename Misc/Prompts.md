@@ -3,3 +3,8 @@
 # Episode Review
 
 * Review Episode X. Provide Survival Wisdom (Markdown), Highlight Gold (Markdown), and a Critical Speaker Growth Analysis focusing on pacing and filler words.
+
+
+# Repo Link
+
+* https://github.com/GrandpaBudPlays/conrad-saga-archive

@@ -44,23 +44,32 @@ If you want to play along on this same map, the seed is L4y2XbwA0V. Let me know 
 Grandpa Bud, Grandpa Bud Plays, Grandpa Plays Valheim, Valheim, Grandpaplays, Grandpa Plays, Playthrough, Conrad the Exile, Grandpa Gamer, Senior Gamer, Wholesome Gaming, Valheim Boar Taming, Valheim Boar Breeding, Valheim Burial Chambers, Valheim Surtling Cores, Valheim Skeleton Arena, Valheim Troll Survival, Valheim Tanning Rack Upgrade, Valheim Leather Armor, how to tame boars in Valheim 2026, Valheim burial chamber guide, where to find surtling cores
 
 ## ✨ SURVIVAL WISDOM & HIGHLIGHT GOLD
-* **[Timestamp] - Survival Wisdom:** [e.g., Explaining the mouse-wheel click for stump removal.]
-* **[Timestamp] - Hearthside Reflection:** [e.g., A quiet moment discussing the journey or the Norns.]
-* **[Timestamp] - Action/Drama:** [e.g., Narrowly escaping a Troll at the Westshore.]
-* **[Timestamp] - Character Moment:** [e.g., A funny reaction or a "Grandpa-ism".]
+[14:20] - Highlight Gold: The Great Boar Drive—a masterclass in patience, demonstrating that animal husbandry is as vital as combat for a permanent homestead.
+
+[47:54] - Action/Drama: Braving the Burial Chambers—the shift in atmosphere from the sunny Meadows to the dark, skeleton-filled halls is palpable.
+
+[1:04:06] - Character Moment: The "Silent Celebration"—after finding enough Surtling Cores for a kiln, Conrad’s quiet satisfaction is more impactful than a loud cheer.
+
+[1:07:57] - Action/Drama: The Chase—narrowly outrunning a Forest Giant (Troll) in the dark highlights the ongoing danger of the early game.
 
 ## 📝 PRODUCTION NOTES
 * **Abridged Potential:** [High/Medium/Low] - Why?
 * **Thumbnail/Hook Idea:** [Insert idea]
 
 ## 🎙️ COMMENTARY & SPEAKER GROWTH
+### Areas for Improvement:
 
-* **Pacing & Flow:** [e.g., Note where silence lasted too long or where transitions between gameplay and commentary felt abrupt.]
-* **Vocal Clarity & Presence:** [e.g., Identifying "vintage" audio moments or times when the cold affected your delivery.]
-* **Audience Engagement:** [e.g., Opportunities to turn a "Grandpa-ism" into a direct question for the viewers.]
-* **Filler Words & Habits:** [e.g., Tracking the use of "uh" or "um" during complex building or combat segments.]
-* **Brand Alignment:** [e.g., Areas where the Grandpa Bud persona could be leaned into more heavily for immersion.]
+* **Self-Correction Loops:** You mentioned re-watching your videos to see "how bad" you’re doing. While humble, be careful not to break the "Conrad" immersion too much by being overly self-critical. The "Grandpa" persona should be confident in his steady pace.
 
+* **Navigation Awareness:** Waking up outside the house was a funny moment, but there was a brief period of confusion regarding the door location. Use those moments to lean into a "Grumpy Grandpa" comment about building in the dark.
+
+### Areas of Growth:
+
+* **Format Mastery:** Increasing the recording length to over an hour was the right call. It allowed the "Burial Chamber" run to feel like a complete narrative arc rather than a cliffhanger.
+
+* **Character Depth:** The "Silent Celebration" after finding Surtling Cores is peak Brand Alignment. It shows that Conrad’s victories are internal and stoic.
+
+---
 
 ## 💬 THE TRANSCRIPT
 > **Note:** This is raw dialogue. The Norns have woven these words as they fell.

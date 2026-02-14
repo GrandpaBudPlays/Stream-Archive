@@ -97,7 +97,7 @@ While the **Chronicles of the Exiled** focuses on solo survival and "Elder's Wis
 
 ---
 
-⚓ THE ANCHOR (The Sign-Off)
+## ⚓ THE ANCHOR (The Sign-Off)
 The Standard: "I'm Grandpa and we're playing Valheim. Have a good one."
 
 The Philosophy: This is the "True North" of the brand. It is grounded, unpretentious, and folksy. It reminds the audience that despite the Viking lore, this is a grandfather sharing a hobby.
@@ -113,6 +113,27 @@ Guideline: Never replace this with a "cinematic" or "epic" closing. The goal is 
 * **Survival Wisdom & Highlight Gold**  These are moments that will be used in creating future clips, shorts and the abridged videos.
 * **Production Notes** The section acts as an internal logging system to help identify and organize future content. It is also used to track and improve the "Grandpa Bud" streaming persona over time.
 * **COMMENTARY & SPEAKER GROWTH** AI identified areas where Grandpa can improve his voice.
+    * 🤖 AI ANALYSIS PROTOCOL: THE CONRAD AUDIT (AI Guide to writing this section)
+
+        When reviewing transcripts for the Conrad Saga, the AI must evaluate the content through three specific lenses:
+
+        1. **The "Survivalist" Audit (Critical Improvement):**
+           - Identify "dead air" where building or traveling is not accompanied by narrative or wisdom.
+           - Flag moments where technical explanations become too "meta" and lose the "Conrad" voice.
+           - Note any "filler word" spikes during high-stress segments (combat/raids).
+
+        2. **The "Grandpa" Growth Tracker (Highlights):**
+           - Highlight moments where the "Elder's Wisdom" hook is used effectively (tips framed as survival lessons).
+           - Identify successful "Stoic and Understated" moments (silence that adds tension or quiet satisfaction).
+           - Celebrate "Devoted Family Man" moments (care for the homestead, boars, or mentions of family).
+
+        3. **Transcript Formatting:**
+           - Feedback must be grouped by Episode.
+           - Use "Survival Wisdom" and "Highlight Gold" for positive gameplay/narrative beats.
+           - Use "Critical Feedback" to specifically address speaker habits and persona consistency.
+
+      Feedback should be provided in a single Markdown code block per episode to allow for easy "Select All" copying without losing formatting.
+---
 * **The Transcript** The Transcript extracted from the video by YouTube. This is Grandpa's actual voice. One of our goals is to help Grandpa improve his voice as a streamer.
 * 
 ## Metadata & Timestamp Standards

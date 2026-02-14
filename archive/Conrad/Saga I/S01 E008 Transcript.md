@@ -41,23 +41,32 @@ Note: Last three characters of the seed are A, zero, V.
 Grandpa Bud, Grandpa Bud Plays, Grandpa Plays Valheim, Valheim, Grandpaplays, Grandpa Plays, Valheim Black Forest, The Forest is Moving Valheim, Valheim Troll Kiting, Conrad the Exile, Valheim Bronze Age, Valheim Death Recovery, Grandpa Gamer, Wholesome Gaming, Valheim The Forest is Moving, Valheim Raid Defense, Valheim Tin Ore, Valheim Corpse Run, Valheim Birch Tree Troll Trick, Conrad Saga 2, Valheim First Death, Valheim Boar Loss, Valheim Black Forest Start
 
 ## ✨ SURVIVAL WISDOM & HIGHLIGHT GOLD
-* **[Timestamp] - Survival Wisdom:** [e.g., Explaining the mouse-wheel click for stump removal.]
-* **[Timestamp] - Hearthside Reflection:** [e.g., A quiet moment discussing the journey or the Norns.]
-* **[Timestamp] - Action/Drama:** [e.g., Narrowly escaping a Troll at the Westshore.]
-* **[Timestamp] - Character Moment:** [e.g., A funny reaction or a "Grandpa-ism".]
+[02:21] - Action/Drama: A Brutal Raid—the "Forest is Moving" event serves as a grim reminder that no base is ever truly safe.
+
+[06:47] - Character Moment: Farewells to the Boars—the emotional cost of the raid adds narrative weight to the survival experience.
+
+[19:38] - Highlight Gold: The "Norns Spin a Dark Thread"—Conrad’s back-to-back deaths (Raid and Bear attack) show the unforgiving nature of the Black Forest.
+
+[37:52] - Survival Wisdom: The Troll Trick—leading a Troll to smash birch trees is an ingenious way to gather "Fine Wood" before having the proper tools.
 
 ## 📝 PRODUCTION NOTES
 * **Abridged Potential:** [High/Medium/Low] - Why?
 * **Thumbnail/Hook Idea:** [Insert idea]
 
 ## 🎙️ COMMENTARY & SPEAKER GROWTH
+### Areas for Improvement:
 
-* **Pacing & Flow:** [e.g., Note where silence lasted too long or where transitions between gameplay and commentary felt abrupt.]
-* **Vocal Clarity & Presence:** [e.g., Identifying "vintage" audio moments or times when the cold affected your delivery.]
-* **Audience Engagement:** [e.g., Opportunities to turn a "Grandpa-ism" into a direct question for the viewers.]
-* **Filler Words & Habits:** [e.g., Tracking the use of "uh" or "um" during complex building or combat segments.]
-* **Brand Alignment:** [e.g., Areas where the Grandpa Bud persona could be leaned into more heavily for immersion.]
+* **Death Narratives:** After the "mortal blow," there was a brief moment of frustration. While natural, try to frame these setbacks as "The Norns spinning a dark thread" immediately to keep the audience in the story world.
 
+* **Clarity in Combat:** During the "Troll Trick" with the birch trees, the action was fast. Narrating exactly what you want the Troll to hit would help viewers follow your clever strategy more easily.
+
+### Areas of Growth:
+
+* **Emotional Resonance:** Your "Farewell to the Boars" after the raid was the strongest character moment in the series so far. It showcased the "Deeply Devoted Family Man" trait, even toward his livestock.
+
+* **Tactical Brilliance:** Using the Troll to gather Fine Wood is the ultimate "Elder's Wisdom." It’s practical, slightly dangerous, and very memorable.
+
+---
 
 ## 💬 THE TRANSCRIPT
 > **Note:** This is raw dialogue. The Norns have woven these words as they fell.
