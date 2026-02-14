@@ -109,8 +109,31 @@ Guideline: Never replace this with a "cinematic" or "epic" closing. The goal is 
 * Each Saga has a Transcript Template that will be followed with the following sections.
 * **Video Metadata** Key metadata from the video
 * **Search TAGS** A copy of the YouTube video search tags
-* **Narative Description** A copy of the YouTube video description. The description will contain timestamps for the viewer chapters. These should assist the viewer in finding key moments in the video and help drive viewer retention.
-* **Survival Wisdom & Highlight Gold**  These are moments that will be used in creating future clips, shorts and the abridged videos.
+* **Narative Description** A copy of the YouTube video description. 
+  * The Narative Description will have two seperate version
+  1. Initial draft: written before streaming has started. This informs the viewer of the Conrad's intent as the action is streamed live.
+  2. Final Draft: Written after the fact using the live stream transcript as a guide and represents what actually happened.
+
+  * 🤖 AI INSTRUCTIONS: DEVELOPING NARRATIVE DESCRIPTIONS
+    When drafting YouTube descriptions for the Conrad Saga, the AI must balance the "Grandpa Bud" persona with functional viewer information. Follow these rules:
+
+    1. **The Hook (Narrative Lead):** - Start with a short, punchy paragraph (3-5 sentences) in the "Grandpa" voice.
+       - Focus on the internal journey (e.g., "the old man longs for the cry of the wolf") rather than just game mechanics.
+       - Use "The Norns," "The All-Father," or "Exile" to ground the story in Valheim lore.
+
+    2. **The "Elder’s Wisdom" Section:** - (Final Draft) Extract 2-3 "Survival Wisdom" points from the transcript.
+       - Frame these as advice from a seasoned traveler to a fellow "Exile."
+       - Avoid sounding like a "pro-gamer." Use phrases like "I learned this the hard way" or "Always double-check."
+
+    3. **Technical Accuracy:** - 
+       - Include the **World Seed** and the specific disclaimer about the last three characters (A, zero, V).
+       - (Final Draft) Ensure the **Chronicles** links are updated to include the current Saga playlist and the "Day 1" link. These should be present in the Narrative Description section of the SXX EXXX Transcript file and should match for all epsiodes (except the last) of that saga.
+    4. **Timestamps Section:**  - (Final Draft) see AI Instructions: Generating YOUTUBE Chapters & Timestamps below
+
+    5. **Tone Check:** - No corporate "marketing speak." No "epic" or "cinematic" adjectives. 
+       - The tone must be steady, grounded, and folksy.
+ 
+ * **Survival Wisdom & Highlight Gold**  These are moments that will be used in creating future clips, shorts and the abridged videos.
 * **Production Notes** The section acts as an internal logging system to help identify and organize future content. It is also used to track and improve the "Grandpa Bud" streaming persona over time.
 * **COMMENTARY & SPEAKER GROWTH** AI identified areas where Grandpa can improve his voice.
     * 🤖 AI ANALYSIS PROTOCOL: THE CONRAD AUDIT (AI Guide to writing this section)
@@ -134,21 +157,19 @@ Guideline: Never replace this with a "cinematic" or "epic" closing. The goal is 
 
       Feedback should be provided in a single Markdown code block per episode to allow for easy "Select All" copying without losing formatting.
 ---
-* **The Transcript** The Transcript extracted from the video by YouTube. This is Grandpa's actual voice. One of our goals is to help Grandpa improve his voice as a streamer.
-* 
+* **The Transcript** The raw transcript extracted from the video by YouTube. This is Grandpa's actual voice. 
+  * One of our goals is to help Grandpa improve his voice as a streamer.
+--
+
 ## Metadata & Timestamp Standards
 
-### 📺 YouTube Chapter Standards (Public)
-* **Location:** Placed just below the video description.
-* **Trigger:** Must start with `0:00`.
-* **Purpose:** These are the "Active Chapters" that appear on the YouTube video progress bar. 
-* **Tone:** Use lore-friendly titles (e.g., "The Shaper gives Conrad Form" instead of "Character Creation").
-
 ### 👴 Elder’s Wisdom & Production Notes (Internal/Reference)
-* **Location:** Placed at the bottom of the transcript/description.
-* **Purpose:** 1.  **Viewer Value:** Provides specific "Grandpa Bud" advice and technical tips.
-    2.  **Production Tool:** Acts as a logging system for future "Best Of" clips, Shorts, and highlight reels.
-* **Structure:** * **Timestamp:** The exact start of the tip/action.
+* **Location:** Placed after the Narative Description
+* **Purpose:**
+  1. **Viewer Value:** Provides specific "Grandpa Bud" advice and technical tips.
+  2. **Production Tool:** Acts as a logging system for future "Best Of" clips, Shorts, and highlight reels.
+* **Structure:** * 
+  1. **Timestamp:** Two(2) seconds before the exact start of the tip/action. Allow the viewer time to get oriented.
     * **Thematic Title:** A folksy name for the lesson.
     * **Description:** A concise explanation of the mechanic or "why" behind the advice.
 
@@ -160,4 +181,44 @@ Guideline: Never replace this with a "cinematic" or "epic" closing. The goal is 
 * **No Speculative Tagging:** If a weapon or mechanic (like Spears) is not used, it must be excluded, regardless of its popularity in search trends.
 * **Service Over Selling:** Frame helpful content as "Tips" rather than "Expert Guides" to manage viewer expectations and avoid disappointment. Always Soft Sell, never Over Sell when deciding how to promote.
 
+---
 
+## 🎞️ AI INSTRUCTIONS: GENERATING YOUTUBE CHAPTERS & TIMESTAMPS
+When generating YouTube chapters from a transcript for the Conrad Saga, follow these strict formatting and thematic guidelines:
+
+1. **Technical Requirements:** 
+   1. **Header:** Start with the header 'Timestamps:'.
+   2. **The 0:00 Trigger:** The first timestamp MUST be 0:00. Without this, YouTube will not generate the active chapter bar for viewers.
+   3. **Format:** Use MM:SS for videos under an hour and H:MM:SS for longer streams.
+   4. **Spacing:** Place the timestamp first, followed by a single space, then the chapter title.
+   5. **Over Arching Rules:** TimeStamps must meet all YouTube requirements for a valid timestamp.
+
+2. **Naming & Brand Voice:**
+   1. **Descriptive & Engaging:** Titles should give the viewer a reason to click. Instead of "Combat," use "Defending the West-Thwaite".
+   2. **The "Grandpa" Lexicon:** Use established brand terms in chapter titles when appropriate (e.g., "The Golden Ones" instead of "Bees," or "Norns' Trial" instead of "Death").
+   3. **No Spoilers:** Keep the titles intriguing but don't give away the ending of a major fight in the timestamp list.
+
+3. **Selection Criteria:** (What to Mark)
+   1. Key Milestones: Major discoveries (relics, new biomes, boss altars), deaths, and successful hunts.
+   2. Grandpa-isms: Specific moments where Grandpa shares "Elder’s Wisdom" or has a funny "Character Moment" (e.g., "Forgot my raincoat again").
+   3. Structural Changes: Transitions between base building, exploration, and the final outro.
+
+4. **The "Elder's Wisdom" Integration:**
+   1. If a timestamp covers a specific tip (like parrying or portal tagging), try to include a secondary bullet point under the main chapter list or weave it into the chapter title.
+5. Act as a content manager for the "Grandpa Plays Valheim" YouTube channel. Using the provided transcript, create a list of YouTube Chapters following these rules:
+  1. Start exactly at 0:00 with a relevant intro title.
+  2. Use the "Grandpa Bud" brand voice—cozy, folksy, and practical.
+  3. Use brand lexicon (e.g., Othala, Iron-Bark, The Norns) where it fits.
+  4. Identify 2-3 "Elder's Wisdom" moments and ensure they are captured.
+  5. Format as: [Timestamp] [Descriptive Title]
+  6. Limit to 8-12 major chapters for better mobile viewing.
+
+
+### 📺 YouTube Chapter Standards (Public)
+* **Location:** Placed just below the video description.
+* **Trigger:** Must start with `0:00`.
+* **Purpose:** These are the "Active Chapters" that appear on the YouTube video progress bar. 
+* **Tone:** Use lore-friendly titles (e.g., "The Shaper gives Conrad Form" instead of "Character Creation").
+
+
+---
