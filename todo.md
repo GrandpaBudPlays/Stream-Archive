@@ -32,9 +32,9 @@
 - [ ] **Lore Bible:** Define the Norns, Othala Sanctuary, and Westshore defensive strategy.
 - [x] **AI Integration:** Connect the repo to Google AI for deep narrative analysis.
 
+---
 
-
-Merge the "Narrative Description" sequence and the "Standard Link Repository" into your Templates/Metadata-Template.md.
+Junk from transitioning away from Brand-Context. This needs to be migrated to other areas.
 
 Move the "Mandatory Tagging List" and "Hugin Perspective" into your new .gemini/styleguide.md.
 

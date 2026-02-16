@@ -10,6 +10,7 @@
 | **Death / Raid** | **The Norns’ Trial** | A shift in fate; the three weavers testing a man's thread. |
 | **Draugr** | **Draugr** | DROW-gur. The shadows of the men that once ruled the land. |
 | **Early Axes** | **Early Axes** | 5th Anniversary Relics (Mysterious & Curious Axe Heads). |
+| **Elite Skill / Precision** | **Astrid’s Grace** |,Doing something perfectly on the first try; a nod to the legendary shieldmaiden.|
 | **Enemy Swarm** | **Forest-Kin / Dwellers** | General term for Greydwarves and Necks. |
 | **Fate / Chance** | **The Norns** | The architects of fate; used to explain glitches or unexpected events. |
 | **Fine Wood / Birch** | **The Iron-Bark** | Specifically refers to Birch or Fine Wood that resists the basic axe. |
@@ -18,6 +19,7 @@
 | **Honey** | **The Queen’s Gift** | The high-tier stamina food that sustains the long journey. |
 | **Mainland** | **Othala-Garth** | o-THAH-la GARTH. The enclosed "inner garden" of your home continent. |
 | **Preparation** | **Ritual of Readiness** | Tactical prep (fire, food, resting) before a boss. |
+| **Preparation / Focus** | **The Shieldmaiden’s Rule** |The discipline of being fully prepared (food/rest/repairs) before a journey.|
 | **Silver** | **Frost-Tears** | Silver; the cold heart of the mountain peaks. |
 | **Stamina** | **The Old Man’s Wind** | A grounded way to describe catching one's breath during labor or flight. |
 | **Starred Creatures** | **The Strength of Stars** | Creatures that are larger and tougher, touched by celestial fate. |

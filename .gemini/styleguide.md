@@ -33,13 +33,15 @@ To maintain brand consistency, every piece of content must be "anchored" by a sp
 * **Command:** `Draft Stream [SX] EXXX [Goals]` 
 * **Action:** 
     1. **Identify Saga:** If [SX] is missing, assume the latest Saga number found in `/archive`.
-    2. **Invent Lore Title:** Create a catchy, lore-based hook (e.g., "The Mountain's Cold Grip"). 
-    3. **Format Title:** Combine the hook with the technical string: "[Lore Hook]: Conrad's Exile (Saga XX Ep. XXX) | Grandpa Plays Valheim". Supress leading zeros in saga and episdoe numbers.
-    4. **Write Description:** Translate [Goals] into 3-5 folksy sentences using the **Ulf Rule**. Frame as "Elder's Wisdom" or survival intent.
-    5. **Attach Links:** Append the relevant biome-specific block from `Standard Link Repository.md`.
-    6. **Attach World Seed:** Append the standard World Seed Text from `World Seed.md`.
-    7. **Final Sign-off:** Use the **Saga Seal** + the **Sign-off**.
-    1. **Output:** Provide the result in a single code block.
+    2. Locate the previous episode and review Metadata and Transcript, if available, for context.
+    3. **Invent Lore Title:** Create a catchy, lore-based hook (e.g., "The Mountain's Cold Grip"). 
+    4. **Format Title:** Combine the hook with the technical string: "[Lore Hook]: Conrad's Exile (Saga XX Ep. XXX) | Grandpa Plays Valheim". Supress leading zeros in saga and episdoe numbers.
+    5. **Write Description:** Translate [Goals] into 3-5 folksy sentences using the **Ulf Rule**. Frame as "Elder's Wisdom" or survival intent.
+    6. **Attach Links:** Append the relevant biome-specific block from `Standard Link Repository.md`.
+    7. **Attach World Seed:** Append the standard World Seed Text from `World Seed.md`.
+    8. **Final Sign-off:** Use the **Saga Seal**.
+    9. **Draft Intro:** Draft the new episode intro for Grandpa that includes a brief recap and set goals for this episode.
+    10. **Output:** Provide the result in a single code block of markdown suitable for copy paste.
 
 
 ## 📝 DRAFTING PROTOCOLS
