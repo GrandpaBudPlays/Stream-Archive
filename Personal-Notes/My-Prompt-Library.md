@@ -6,7 +6,7 @@
 * https://github.com/GrandpaBudPlays/conrad-saga-archive
 
 # Opening a new Session
-* Review Brand-Context.md and Brand-Voice in the root directory. This is the master guide for my brand 'Grandpa Bud.' Once you've read it, let me know, and I will give you a specific section to work on.
+* Review Brand-Context.md, Brand-Voice in the root directory and styleguide.md in the .gemini directory. This is the master guide for my brand 'Grandpa Bud.' Be prepared to execute the steps outlined in the REVIEW EXX shortcut command. Once you've read these, let me know, and I will give you a specific section to work on. 
 
 # Episode Review
 
