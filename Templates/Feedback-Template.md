@@ -63,7 +63,7 @@ Provide the final review in this exact structure.
 ### 1. The YouTube Video Description (The Public Face)
 This section is a direct copy to the YouTube video description :
 * **State 2 (Post-Stream):** A revised summary of what **actually happened**. To prevent formatting errors, follow this strict sequence:
-    1. **Narrative Hook:** 3-5 sentences in Grandpa’s voice (Ulf-rule style).
+    1. **Narrative Hook:** Follow THE TRIPLE-THREAT DESCRIPTION PROTOCOL 
     2. **Standard Link Repository:** Saga-specific links from Standard Link Repository.
     3. **YouTube Chapters:** 
        1. **Header:** Timestamps:

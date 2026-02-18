@@ -91,5 +91,3 @@ The following links should be included in the Narrative Description based on whi
 🛡️ Start Conrad’s Saga from Day 1: https://youtube.com/live/kv1qjhZH-4w
 📜 Chronicles of the Exiled: The Complete Saga: https://www.youtube.com/playlist?list=PLLLwpTakAlMs3EAexfe5GWeR0byjILky6
 
-## ⚓ THE ANCHOR
-"I'm Grandpa and we're playing Valheim. Have a good one."
