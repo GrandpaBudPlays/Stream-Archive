@@ -1,3 +1,4 @@
+AI Instructions: Outdated. Do Not Use. Unless specificly told otherwise, STOP READING.
 # 🎭 BRAND IDENTITY: The Practical Survivalist
 
 This document is the creative and technical manifest for the Conrad Saga. It bridges raw gameplay with narrative storytelling.
