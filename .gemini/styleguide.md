@@ -19,7 +19,7 @@
 
 ## 🛠️ SHORTHAND COMMANDS
 
-### Command: `Review [ID]` (e.g., "Review E044")
+### Command: `Review Transcript [ID]` (e.g., "Review E044")
 1.  **Locate:** Find the matching transcript file in the `/archive` directory.
 2.  **Audit & Output:** Execute a full audit following the exact structure and headers of `Templates/Feedback-Template.md`.
 3.  **Triple-Threat Metadata:** Generate a "State 2" (Post-Stream) description following the **Triple-Threat Protocol** below.
