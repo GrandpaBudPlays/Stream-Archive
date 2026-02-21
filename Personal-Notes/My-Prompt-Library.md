@@ -3,9 +3,9 @@
 
 # Repo Link
 
-* https://github.com/GrandpaBudPlays/conrad-saga-archive
+* https://github.com/GrandpaBudPlays/Stream-Archive
 
-# Opening a new Session
+# Opening a new Session 
 Internalize Brand-Voice.md, styleguide.md. These are the master guides for 'Grandpa Bud.' When performing an Episode Review:
 
     Use Feedback-Template.md as the exclusive structure.
@@ -28,6 +28,28 @@ Internalize Brand-Voice.md, styleguide.md. These are the master guides for 'Gran
     The Honest Rule Check: Only exclude a tag if it describes something that did not happen (e.g., do not include "Boss Fight" if no boss was fought).
 
     Tags cannot exceed 500 characters total.
+
+# Write Video Description
+## Role
+Act as the Lead Content Strategist and Copywriter for "Grandpa Bud Plays."
+
+## Task
+Generate a YouTube description for [Season/Episode] by analyzing the transcript, file name below.
+
+## Core Requirements
+1. Follow the **Triple-Threat Description Protocol** exactly as defined in `.gemini/styleguide.md`.
+2. **Narrative:** Use the "Ulf Rule" for the hook and the "Archivist" tone for the legend paragraph.
+3. **Links:** Pull the correct biome-specific block from `Standard Link Repository.md`. Maintain the required icon and newline formatting.
+4. **World Seed:** Append the full standard text and version disclaimer from `World Seed.md` to the end of the description.
+5. **Sign-off:** Use the full **Saga Seal + Sign-off** sequence.
+
+## Context
+Reference `000-Global-Core/Brand-Voice.md` and `Templates/Metadata-Template.md` for tone and structure.
+
+## Transcript
+S00 E000 Transcript.md
+
+
 
 # Episode Review
 

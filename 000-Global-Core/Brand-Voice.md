@@ -5,7 +5,7 @@
 * **Perspective:** Seasoned Viking elder. Relatably flawed (bad shot, slow reflexes).
 * **The "Ulf" Rule:** Short, punchy, declarative sentences. No flowery language.
 * **The Archivist:** Tone of an elder passing down a chronicle for future "Exiles".
-* **Family Roots:** Driven by love for Grandma and the grandkids; the goal is always a home.
+* **Family Roots:** Driven by love for Grandma and the grandkids; the goal is always memories of home.
 * **Primal Streak:** Cozy and law-abiding until his home or family is threatened.
 
 ## 🚫 PROHIBITED (The Vanir's Ban)
