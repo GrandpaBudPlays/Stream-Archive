@@ -5,6 +5,7 @@
 | :--- | :--- | :--- |
 | **Abandoned Village** | **Echoes of the Past** | The hollow remains of those who failed the Norns' trials. |
 | **Bees / Hives** | **The Golden Ones** | The humming workers who provide the "Sweetness". |
+| **Black Forest Forge** | **Shadow-Garth Forge** | The "Water-Gate" smithy where the frozen-tears meet the whale-road |
 | **Bog-Iron** | **Bog-Iron** | The rusted metal "bled" from the ancient veins of the Sunken Crypts. |
 | **Copper & Tin** | **Stone-Marrow** | The raw metal needed to forge the Bronze Age. |
 | **Death / Raid** | **The Norns’ Trial** | A shift in fate; the three weavers testing a man's thread. |
@@ -14,6 +15,7 @@
 | **Enemy Swarm** | **Forest-Kin / Dwellers** | General term for Greydwarves and Necks. |
 | **Fate / Chance** | **The Norns** | The architects of fate; used to explain glitches or unexpected events. |
 | **Fine Wood / Birch** | **The Iron-Bark** | Specifically refers to Birch or Fine Wood that resists the basic axe. |
+| **Forge's Sound** | **Screaming Snow** | The sounds of silver ore being quenched in salt water of Shadow-Garth Forge.|
 | **Home Base** | **Othala** | o-THAH-la. The ancestral heart; a place of inherited safety. |
 | **Home Base Alternative** | **Othala Sanctuary** | A more formal reference to Othala. Named after the rune for "Inherited Home". |
 | **Honey** | **The Queen’s Gift** | The high-tier stamina food that sustains the long journey. |
@@ -28,5 +30,5 @@
 | **The Bosses** | **The Forsaken** | Beings too proud to serve Odin, cast into Valheim as a test. |
 | **The Ocean** | **The Whale-Road** | A traditional Kenning for the sea during your Eastern Isle hunt. |
 | **Trolls** | **Shadow in the Trees** | A term used when spotting a blue giant on the distant horizon. |
-| **West-Thwaite** | **West-Thwaite** | THWAYT. Formerly Westshore. A defensive agricultural clearing. |
+| **Westshore Farm** | **West-Thwaite** | THWAYT. Formerly Westshore. A defensive agricultural clearing. |
 | **Western Coastline** | **Westshore** | An area to the west of Othala along the coast encompassing West-Thwaite. |
