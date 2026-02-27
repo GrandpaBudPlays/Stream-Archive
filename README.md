@@ -13,12 +13,12 @@ A master repository for live stream transcripts and lore. This archive serves as
 The archive is split into two primary branches to distinguish solo survival from legacy gameplay:
 
 ### 🧔 CONRAD (Solo Saga)
-Located in `/archive/conrad/`. These files document the journey of the Exile.
+Located in `/Stream-Archive/010-Valheim/Chronicles-of-the-Exile`. These files document the journey of the Exile.
 * **Saga I - IV**: From the Meadows to the Mountains.
 
 ### 🧒 HEIRS (Grandkids Saga)
-Located in `/archive/heirs/`. These files document the adventures of the next generation.
-* **Saga I**: The Heirs' first steps into the Tenth World.
+Located in `/Stream-Archive/010-Valheim/020-Heirs/`. These files will document the adventures of the next generation.
+* **Saga I**: The Heirs' first steps into the Tenth World. (TBD)
 
 ---
 
