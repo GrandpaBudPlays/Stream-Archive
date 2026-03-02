@@ -1,13 +1,14 @@
 !config
-# Prioritize brand and template directories for context
+# Prioritize brand, template, and saga directories for context
 search_paths:
-  - "010-Valheim/**"
   - "000-Global-Core/**"
+  - "010-Valheim/010-Templates/**"
+  - "010-Valheim/Chronicles-Of-The-Exile/**"
 
 # Explicitly ignore unrelated system or junk files
 ignore:
   - ".git/**"
-  - "node_modules/**"
+  - "Thumbnail/**"
 
 # Define the styleguide as the primary system instruction
 system_instructions:
