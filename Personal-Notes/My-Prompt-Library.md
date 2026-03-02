@@ -4,6 +4,9 @@
 # Repo Link
 * https://github.com/GrandpaBudPlays/Stream-Archive
 
+
+review config.yaml for validity and identify errors or misuse
+
 # Opening a new Session 
 Internalize Brand-Voice.md, styleguide.md. These are the master guides for 'Grandpa Bud.' When performing an Episode Review:
 
