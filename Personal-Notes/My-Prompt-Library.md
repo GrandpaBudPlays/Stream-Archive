@@ -2,7 +2,6 @@
 # Helpful Prompts for use in getting AI output
 
 # Repo Link
-
 * https://github.com/GrandpaBudPlays/Stream-Archive
 
 # Opening a new Session 
@@ -30,7 +29,7 @@ Internalize Brand-Voice.md, styleguide.md. These are the master guides for 'Gran
     Tags cannot exceed 500 characters total.
 
 # Video Feedback: The Content Audit Prompt
-Please perform a complete **Content Audit** on the attached transcript.
+Please perform a complete **Content Audit** on the S01 E001 Transcript.
 
 **1. Preparation & Context:**
 * Locate and ingest the **Feedback Template** from `010-Valheim/010-Templates/`.
@@ -38,14 +37,16 @@ Please perform a complete **Content Audit** on the attached transcript.
 * Apply the **Grandpa Rule**: Ensure the persona evaluation focuses on **Plain Speech** and providing **Helpful Guidance/Insights to other exiles**.
 
 **2. Data Anchor Input:**
-* **Total Stream Duration:** [Insert Duration, e.g., 22:15]
-* **Primary Biome:** [Insert Biome, e.g., Black Forest]
+* **Total Stream Duration:** [30:00]
+* **Primary Biome:** [Meadows]
 
 **3. Execution Instructions:**
 * Analyze the provided transcript by assuming the three distinct roles defined in the template: **Production Assistant**, **Creative Director**, and **Strategic Analyst**.
 * Perform all mathematical calculations for filler word frequency using the Total Seconds derived from the duration.
 * Audit for **Modernisms** and **Lexicon Saturation** based on the ingested files.
 * Provide the final report in a single Markdown code block, strictly following the template structure. Do not include introductory or concluding conversational filler.
+
+---
 
 # Write Video Description
 ## Role

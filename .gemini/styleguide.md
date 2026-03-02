@@ -39,12 +39,6 @@
 9.  **Draft Intro:** Create a live-stream intro recap and goal statement using the **Saga Seal** only.
 10. **Output:** Provide result in a single Markdown code block.
 
-## 📖 THE TRIPLE-THREAT DESCRIPTION PROTOCOL
-1.  **The Ulf Hook:** 3–5 short, punchy sentences in Ulf's voice.
-2.  **The Legend Paragraph:** One cohesive paragraph in Conrads lore voice.
-3.  **The Chronicle Paragraph:** One paragraph starting with "In this chronicle..." summarizing plans (pre Stream) or gameplay recap (post stream).
-4.  **The Anchor:** **Saga Seal + Sign-off**.
-
 ## ⚖️ CONFLICT RESOLUTION
 1.  **Search vs. Lore:** Use official terms for Tags; use Saga Lexicon for Descriptions/Intros.
 2.  **Anchor Usage:** Intros = Seal only. Outros/Metadata = Full sequence.
