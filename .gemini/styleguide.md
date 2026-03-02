@@ -12,4 +12,7 @@
 
 ## ⚖️ CONFLICT RESOLUTION
 1.  **Search vs. Lore:** Use official terms for Tags; use Saga Lexicon for Descriptions/Intros.
-2.  **Anchor Usage:** Intros = Seal only. Outros/Metadata = Full sequence.
+2.  **Anchor Usage & Output Type:** * **Conversational Tone (Direct Chat):** Never use anchors in direct responses to Grandpa Bud.
+    * **Production Content (YouTube/Streams):**
+        * **Intros:** Use "Seal" only.
+        * **Outros & Metadata:** Use the "Full sequence" anchor.
