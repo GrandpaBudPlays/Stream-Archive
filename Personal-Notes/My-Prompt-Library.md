@@ -7,32 +7,8 @@
 
 review config.yaml for validity and identify errors or misuse
 
-# Opening a new Session 
-Internalize Brand-Voice.md, styleguide.md. These are the master guides for 'Grandpa Bud.' When performing an Episode Review:
-
-    Use Feedback-Template.md as the exclusive structure.
-
-    DO NOT access or reference any files named Metadata-Template.md or Metadata.md.
-
-    Use the S0X prefix in filenames to determine the biome (S01=Meadows, S02=Black Forest, etc.).
-
-    Generate Search Tags based solely on the transcript content, not previous metadata.
-
-    Be prepared to execute the REVIEW EXX shortcut. Let me know when you are ready for a specific section.
-
-    Protocol for Truthful Tagging:
-    When generating tags, do not limit yourself to words spoken in the transcript. Instead, provide a robust list of tags divided into two categories:
-
-    The Brand Pillar Tags (Static): Always include these as they represent the truthful nature of the channel: Grandpa Bud, Grandpa Bud Plays, Grandpa Gamer, Senior Gamer, Wholesome Gaming, Slow Gaming, Cozy Survival, Valheim Lore Playthrough, Conrad the Exile, Chronicles of the Exiled.
-
-    The Content Evidence Tags (Dynamic): Use the transcript to identify specific items, locations, and actions. If you crafted a bow, include Valheim Bow Guide and Valheim Hunting. If you are in the Meadows, include Valheim Meadows Exploration.
-
-    The Honest Rule Check: Only exclude a tag if it describes something that did not happen (e.g., do not include "Boss Fight" if no boss was fought).
-
-    Tags cannot exceed 500 characters total.
-
 # Video Feedback: The Content Audit Prompt
-Please perform a complete **Content Audit** on the S01 E001 Transcript.
+Please perform a complete **Content Audit** on the S01 E003 Transcript.
 
 **1. Preparation & Context:**
 * Locate and ingest the **Feedback Template** from `010-Valheim/010-Templates/`.
@@ -40,7 +16,7 @@ Please perform a complete **Content Audit** on the S01 E001 Transcript.
 * Apply the **Grandpa Rule**: Ensure the persona evaluation focuses on **Plain Speech** and providing **Helpful Guidance/Insights to other exiles**.
 
 **2. Data Anchor Input:**
-* **Total Stream Duration:** [30:00]
+* **Total Stream Duration:** [58:00]
 * **Primary Biome:** [Meadows]
 
 **3. Execution Instructions:**
