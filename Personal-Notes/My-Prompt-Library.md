@@ -8,7 +8,7 @@
 review config.yaml for validity and identify errors or misuse
 
 # Video Feedback: The Content Audit Prompt
-Please perform a complete **Content Audit** on the S01 E003 Transcript.
+Please perform a complete **Content Audit** on the S01 E005 Transcript.
 
 **1. Preparation & Context:**
 * Locate and ingest the **Feedback Template** from `010-Valheim/010-Templates/`.
@@ -16,7 +16,7 @@ Please perform a complete **Content Audit** on the S01 E003 Transcript.
 * Apply the **Grandpa Rule**: Ensure the persona evaluation focuses on **Plain Speech** and providing **Helpful Guidance/Insights to other exiles**.
 
 **2. Data Anchor Input:**
-* **Total Stream Duration:** [58:00]
+* **Total Stream Duration:** [30:00]
 * **Primary Biome:** [Meadows]
 
 **3. Execution Instructions:**
