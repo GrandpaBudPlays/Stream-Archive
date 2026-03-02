@@ -1,8 +1,9 @@
 !config
 # Prioritize brand and template directories for context
 search_paths:
-  - "archive/**"
-  - "Templates/**"
+  - "010-Valheim/**"
+  - "010-Valheim/010-Templates/**"
+  - "000-Global-Core/**"
   - "/"
 
 # Explicitly ignore unrelated system or junk files
