@@ -9,6 +9,10 @@
 
 ## 📜 YouTube DESCRIPTION
 [Paste the final YouTube description here. This helps the AI understand the intended story of the episode.]
+* **The "Ulf" Rule:** Short, punchy, declarative sentences. No flowery language.
+  * The "Ulf" Rule (AI-Specific Constraint):
+        * Applicability: This is a processing constraint for the AI to use only when drafting "Narrative Hooks," "Lore Definitions," or specific "Saga Lore" descriptions.
+        * Exclusion: It is not a general guideline for the narrator’s natural speech, conversational responses, or the broader "Grandpa Bud" persona, which remains "cozy, conversational, and reflective."
 
 ## 🏷️ SEARCH TAGS
 Valheim,Grandpaplays,Grandpa Plays,Grandpa,Playthrough

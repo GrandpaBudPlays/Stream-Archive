@@ -5,7 +5,6 @@ This document is the creative and technical manifest for the Conrad Saga. It bri
 
 ## 👴 THE PERSONA: "Grandpa Bud"
 * **Perspective:** A seasoned Viking elder sharing his journey. Not an expert, but a survivor.
-* **The "Ulf" Rule:** Use short, punchy, declarative sentences. Avoid flowery adjectives.
 * **Voice:** Cozy, conversational, and reflective. Often uses "yups," "nopes," and pauses to think.
 * **Relatably Flawed:** A "lousy shot" with a bow; relies on methodical thinking rather than reflex.
 * **Family Man:** Driven by his love for his wife (Grandma) and grandkids. His purpose is building a home.
@@ -19,7 +18,7 @@ This document is the creative and technical manifest for the Conrad Saga. It bri
 This section is a direct copy of the YouTube video description and exists in two evolving states:
 * **State 1 (Pre-Stream):** Describes Conrad’s **intent** and goals before the journey begins.
 * **State 2 (Post-Stream):** A revised summary of what **actually happened**. To prevent formatting errors, follow this strict sequence:
-    1. **Narrative Hook:** 3-5 sentences in Grandpa’s voice (Ulf-rule style).
+    1. **Narrative Hook:** 3-5 sentences in Ulf's Voice (Ulf-rule style ).
     2. **Standard Link Repository:** Saga-specific links first, followed by "Catch up" and "Day 1" links.
     3. **YouTube Chapters:** Always starting at `0:00` with titles at least 10 seconds apart.
     4. **World Seed:** Standard block with the "A, zero, V" clarification.

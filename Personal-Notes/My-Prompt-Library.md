@@ -29,6 +29,24 @@ Internalize Brand-Voice.md, styleguide.md. These are the master guides for 'Gran
 
     Tags cannot exceed 500 characters total.
 
+# Video Feedback: The Content Audit Prompt
+Please perform a complete **Content Audit** on the attached transcript.
+
+**1. Preparation & Context:**
+* Locate and ingest the **Feedback Template** from `010-Valheim/010-Templates/`.
+* Locate and ingest the **Saga Lexicon** from `010-Valheim/Saga-Lexicon-Valheim.md`.
+* Apply the **Grandpa Rule**: Ensure the persona evaluation focuses on **Plain Speech** and providing **Helpful Guidance/Insights to other exiles**.
+
+**2. Data Anchor Input:**
+* **Total Stream Duration:** [Insert Duration, e.g., 22:15]
+* **Primary Biome:** [Insert Biome, e.g., Black Forest]
+
+**3. Execution Instructions:**
+* Analyze the provided transcript by assuming the three distinct roles defined in the template: **Production Assistant**, **Creative Director**, and **Strategic Analyst**.
+* Perform all mathematical calculations for filler word frequency using the Total Seconds derived from the duration.
+* Audit for **Modernisms** and **Lexicon Saturation** based on the ingested files.
+* Provide the final report in a single Markdown code block, strictly following the template structure. Do not include introductory or concluding conversational filler.
+
 # Write Video Description
 ## Role
 Act as the Lead Content Strategist and Copywriter for "Grandpa Bud Plays."

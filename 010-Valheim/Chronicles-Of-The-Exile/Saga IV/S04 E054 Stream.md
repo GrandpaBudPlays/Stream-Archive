@@ -77,6 +77,6 @@ Lets try again, my bad I didn't provide goals. As a creative writer following th
 
 The mead is cold. The hearth is warm. The saga continues. I'm Grandpa and we're playing Valheim.
 
-We’re back at Shadow-Garth Forge today. The frozen-fears from the mountain was a heavy lift but it’s finally sitting in our chests. We’ve forged Frostner, and I can tell you, the weight of it feels right. But a proper exile needs more than one trick in his bag.
+We’re back at Shadow-Garth Forge today. The frozen-tears from the mountain was a heavy lift but it’s finally sitting in our chests. We’ve forged Frostner, and I can tell you, the weight of it feels right. But an exile needs more than one tool on his belt.
 
-Today, we’re keeping the forge hot. We’ve got a more "Frozen Tears" left to process, and by the time the sun sets again, I want to be carrying the Draugr Fang and a shiny Silver breast. We’ll start with an audit to see exactly what’s left in the stacks, then it’s back to the bellows. Let’s get to work.
+Today, we’re keeping the forge hot. We’ve got more "Frozen Tears" to smelt, and by the time the sun sets again, I want to be carrying the Draugr Fang and a shiny Silver breast. We’ll start with an audit to see  what’s left in the stacks, then it’s back to the bellows. Let’s get to work.
