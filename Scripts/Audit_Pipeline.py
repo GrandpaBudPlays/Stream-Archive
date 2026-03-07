@@ -17,6 +17,8 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.dirname(SCRIPT_DIR)
 VALHEIM_ROOT = os.path.join(ROOT_DIR, "010-Valheim", "Chronicles-Of-The-Exile")
 TEMPLATE_PATH = os.path.join(ROOT_DIR, "010-Valheim", "010-Templates", "Feedback Template.md")
+DEFAULT_TIMEOUT = 300
+
 #
 
 def parse_cli_args():
@@ -159,68 +161,6 @@ import re
 LIST_RE = re.compile(r'^\s*(?:[-*+]|\d+\.)\s+')
 HEADER_RE = re.compile(r'^#{1,6}\s')
 
-def sanitize_markdown(text):
-
-    # Remove code fences and NBSP
-    text = (
-        text.replace('\xa0', ' ')
-        .replace("```markdown", "")
-        .replace("```", "")
-        .strip()
-    )
-
-    lines = text.splitlines()
-    output = []
-
-    seen_h1 = False
-
-    for i, line in enumerate(lines):
-        line = line.rstrip()
-
-        # --- Fix multiple H1 ---
-        if line.startswith("# "):
-            if seen_h1:
-                line = "## " + line[2:]
-            seen_h1 = True
-
-        # --- Normalize list spacing ---
-        if LIST_RE.match(line):
-            line = re.sub(r'\s+', ' ', line, count=1)
-
-        output.append(line)
-
-    # --- Insert blank lines around headers/lists ---
-    fixed = []
-
-    for i, line in enumerate(output):
-
-        prev = fixed[-1] if fixed else ""
-        next_line = output[i + 1] if i + 1 < len(output) else ""
-
-        if HEADER_RE.match(line):
-
-            if prev and prev.strip():
-                fixed.append("")
-
-            fixed.append(line)
-
-            if next_line.strip():
-                fixed.append("")
-
-            continue
-
-        if LIST_RE.match(line) and prev and not LIST_RE.match(prev):
-            if prev.strip():
-                fixed.append("")
-
-        fixed.append(line)
-
-    # Collapse excessive blank lines
-    text = "\n".join(fixed)
-    text = re.sub(r'\n{3,}', '\n\n', text)
-
-    return text.strip() + "\n"
-
 def save_audit_report(transcript_path, content, report_type):
     # Job: Save results with linter-friendly formatting
     parent_dir = os.path.dirname(transcript_path)
@@ -232,9 +172,6 @@ def save_audit_report(transcript_path, content, report_type):
     base_name = os.path.basename(transcript_path).replace(" Transcript.md", "")
     filename = f"{base_name} {report_type}.md"
     save_path = os.path.join(report_dir, filename)
-
- # STRIP FENCES AND SANITIZE
-    content = sanitize_markdown(content)
 
     with open(save_path, 'w', encoding='utf-8') as f:
         f.write(content)
@@ -318,7 +255,33 @@ def run_strategic_gold_extraction(client, transcript, episode_id, duration_sec):
 
     return response.text
 
-def safe_generate_content(client, model_name, config, contents, retries=6):
+def safe_generate_content(
+        client: genai.Client,
+        model_name: str,
+        config: types.GenerateContentConfig,
+        contents: str,
+        retries: int = 6
+    ):
+
+    # 1. Logic Injection: Ensure http_options and timeout exist
+    # If config is missing or lacks timeout, we "re-build" it safely
+    if config is None:
+        config = types.GenerateContentConfig(http_options={'timeout': 120000})
+    else:
+        # Check if we need to inject the timeout
+        current_options = getattr(config, 'http_options', {}) or {}
+        if 'timeout' not in current_options:
+            # We create a copy of the options and add the timeout
+            new_options = dict(current_options)
+            new_options['timeout'] = 120000
+
+            # Re-initialize the config to ensure internal consistency
+            # This is safer than direct attribute assignment in this SDK
+            config = types.GenerateContentConfig(
+                **{k: v for k, v in config.__dict__.items() if k != 'http_options'},
+                http_options=new_options
+            )
+
     print(f"Attempting to generate content with model '{model_name}'...")
 
     for i in range(retries):
@@ -386,7 +349,7 @@ if __name__ == "__main__":
     print(f"--- Processing {episode} ---")
     client = genai.Client(
         api_key=os.getenv('GEMINIAPIKEY'),
-                http_options={'timeout': 180}
+        http_options={"timeout": DEFAULT_TIMEOUT}
     )
     print("Client initialized. Starting Pass 1: Tactical Audit...")
 
