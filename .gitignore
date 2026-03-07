@@ -4,6 +4,26 @@ desktop.ini
 $RECYCLE.BIN/
 *.lnk
 
+# Python venv
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+*.env
+
+# VS Code settings
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
 # Ignore all environment files
 *.env
 
@@ -13,7 +33,6 @@ $RECYCLE.BIN/
 # VS Code specific
 .vscode/
 *.code-workspace
-
 # Temporary / Backup files
 *.tmp
 *.bak

@@ -10,7 +10,6 @@ load_dotenv()
 
 # Fetch the variable
 api_key = os.getenv('GEMINIAPIKEY')
-print(api_key)
 
 if not api_key:
     print("Key not found. Check your .env file.")
