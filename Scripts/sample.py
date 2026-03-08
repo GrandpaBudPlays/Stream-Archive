@@ -1,32 +1,31 @@
-from google.genai.types import GenerateContentConfig
-from google.genai.client import Client
-from typing import Any
+import sys
+from file_manager import find_transcript_and_metadata, load_transcript_asset
 
-DEFAULT_TIMEOUT = 180
+def check_saga_status(query: str):
+    # 1. Locate the files and metadata
+    saga = find_transcript_and_metadata(query)
+    
+    if not saga or 'path' not in saga:
+        print("Error: Saga not found.")
+        return
 
-def safe_generate_content(
-    client: Client,
-    model_name: str,
-    config: GenerateContentConfig,
-    contents: Any
-):
-    # Convert the incoming config to a dict so we can inspect/modify it
-    merged = config.to_dict()
+    # 2. Pass the path from the saga to the loader
+    # Using our modified function that returns "" if it's "No Audio"
+    transcript_content = load_transcript_asset(saga['path'])
 
-    # Only add timeout if the caller did NOT specify one
-    if "timeout" not in merged or merged["timeout"] is None:
-        merged["timeout"] = DEFAULT_TIMEOUT
+    # 3. Determine status based on the returned string
+    is_no_audio = len(transcript_content) == 0
 
-    # Rebuild a proper GenerateContentConfig object
-    merged_config = GenerateContentConfig(**merged)
+    if is_no_audio:
+        print("No Audio")
+    else:
+        print("Has Content")
 
-    try:
-        return client.models.generate_content(
-            model=model_name,
-            config=merged_config,
-            contents=contents
-        )
+if __name__ == "__main__":
+    # Example: run via 'python main.py "MySagaName"'
+    # search_query = sys.argv[1] if len(sys.argv) > 1 else "default_saga"
+    search_query = "S02 E010 Transcript.md"  # Hardcoded for testing; replace with CLI arg as needed
+    check_saga_status(search_query)
 
-    except errors.ServerError as e:
-        # your existing error handling
-        raise
+
+    #  opencode -s ses_334f23689ffexSSpUFp00xyvBH

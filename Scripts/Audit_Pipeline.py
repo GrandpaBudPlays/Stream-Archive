@@ -6,6 +6,9 @@ from google import genai
 
 from ai.gemini import GeminiModel
 from ai.model_runner import ModelRunner
+from prompts import get_prompt_library
+from prompts.audit import AuditPrompt
+from prompts.gold_extraction import GoldExtractionPrompt
 from file_manager import (
     find_transcript_and_metadata,
     get_template_data,
@@ -51,62 +54,33 @@ def get_video_duration(raw_content: str) -> float:
 
 
 def run_saga_audit(model: GeminiModel, transcript: str, template: str, lexicon: str, ep_id: str, duration: float, biome: str):
-    instr = (
-        "You are a Content Auditor. Populate the provided Markdown Template. "
-        "CRITICAL FORMATTING RULES: "
-        "1. Surround all headings (#, ##) with exactly one blank line. "
-        "2. Use 2-space indentation for all nested lists. "
-        "3. Do not leave trailing spaces at the end of lines."
+    prompts = get_prompt_library("valheim")
+    audit_prompt: AuditPrompt = prompts.get("audit")
+    
+    prompt = audit_prompt.build_audit_prompt(
+        episode_id=ep_id,
+        duration=str(int(duration)),
+        biome=biome,
+        lexicon_context=lexicon,
+        transcript=transcript,
+        template=template
     )
-
-    prompt = f"""# AUDIT TARGET: {ep_id}
-
-**BIOME:** {biome}
-**DURATION:** {duration}s
-
-## LEXICON CONTEXT
-{lexicon if lexicon else "None (Historical Episode)"}
-
-## TRANSCRIPT
-{transcript}
-
-## TEMPLATE
-{template}
-"""
-
-    result = model.generate(prompt, system_instruction=instr, temperature=0.1)
+    
+    temperature = audit_prompt.get_temperature(model.name)
+    result = model.generate(prompt, system_instruction=audit_prompt.get_system_instruction(), temperature=temperature)
     if not result.success:
         raise RuntimeError(f"Failed to generate audit content: {result.error}")
     return result.model_name, result.content
 
 
 def run_strategic_gold_extraction(model: GeminiModel, transcript: str, episode_id: str, duration_sec: float):
-    strategic_instruction = (
-        "You are a Strategic Content Analyst for 'Grandpa Bud Plays'. "
-        "Identify 'Highlight Gold' for repurposing. "
-        "Apply the 'Grandpa Rule'."
-        "CRITICAL: Output raw Markdown only. Do NOT wrap in ```markdown code blocks. "
-        "Surround all headings (#, ##) with blank lines and use 2-space indentation."
-        "Use proper Markdown heading levels (###) for segment titles. Do not use bold text as a heading."
-        "YOUTUBE CHAPTER RULES:"
-        "1. The first chapter MUST start at 00:00."
-        "2. Timestamps must be in chronological order."
-        "3. Every chapter must be at least 10 seconds apart."
-        "4. List at least 3 chapters."
-        "5. Format: MM:SS or HH:MM:SS."
-    )
-
-    pacing = "High-density (2-3 mins)" if duration_sec < 1200 else "Strategic (8-12 mins)"
-
-    prompt = f"""TASK: Highlight Gold Audit for {episode_id}.
-DURATION: {duration_sec}s | PACING: {pacing}
-CATEGORIES: Type A (Shorts), Type B (Clips), Type C (Saga Components), Type D (YouTube Chapters).
-
-TRANSCRIPT:
-{transcript}
-"""
-
-    result = model.generate(prompt, system_instruction=strategic_instruction, temperature=0.2)
+    prompts = get_prompt_library("valheim")
+    gold_prompt: GoldExtractionPrompt = prompts.get("gold_extraction")
+    
+    prompt = gold_prompt.build_gold_prompt(transcript=transcript, duration_sec=duration_sec)
+    
+    temperature = gold_prompt.get_temperature(model.name)
+    result = model.generate(prompt, system_instruction=gold_prompt.get_system_instruction(), temperature=temperature)
     if not result.success:
         raise RuntimeError(f"Failed to generate strategic gold content: {result.error}")
     return result.model_name, result.content

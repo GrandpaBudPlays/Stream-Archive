@@ -50,13 +50,33 @@ def find_transcript_and_metadata(target_filename):
     }
 
 
+def _has_no_audio_transcript(file_path: str) -> bool:
+    """Helper to check for 'No Audio' and absence of timestamps."""
+    with open(file_path, 'r', encoding='utf-8') as f:
+        # Read the first 500 characters to cover ~10 lines
+        header_chunk = f.read(500)
+        
+        # Case-insensitive check for "No Audio"
+        if "no audio" in header_chunk.lower():
+            has_no_audio = not bool(re.search(r'\d{1,2}:\d{2}', header_chunk))
+            return has_no_audio
+        else:
+            # Reset to start and check the whole file for timestamps
+            f.seek(0)
+
+    return False
+
 def load_transcript_asset(file_path: str) -> str:
     if not os.path.exists(file_path):
         print(f"Error: File not found at {file_path}")
         return ""
+
+    # Use helper to determine if we should return an empty string
+    if _has_no_audio_transcript(file_path):
+        return ""
+
     with open(file_path, 'r', encoding='utf-8') as f:
         return f.read()
-
 
 def read_file(path: str) -> str:
     if not os.path.exists(path):
