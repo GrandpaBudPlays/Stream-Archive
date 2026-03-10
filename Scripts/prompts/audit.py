@@ -2,7 +2,7 @@ from prompts.base import BasePrompt, PromptConfig
 
 
 class AuditPrompt(BasePrompt):
-    """Phase 1: Tactical Audit - Filler words, Modernisms, Lexicon"""
+    """Tactical Audit - Filler words, Modernisms, Lexicon"""
     
     @property
     def name(self) -> str:

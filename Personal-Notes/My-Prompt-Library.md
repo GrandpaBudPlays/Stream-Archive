@@ -135,3 +135,59 @@ S00 E000 Transcript.md
 * Review Episode X. Output should follow Feedback-Template.md format.
 
 review the transcript section of EP045 and validate it against the timestamp in the narrative Description for accuracy and validity. Also review if we have captured the best chapters for our viewers.
+
+
+## Three Pass **Describe** Workflow
+
+You are an expert Python automation architect. Your task is to design a modular, maintainable workflow that implements a 3‑pass text‑generation pipeline for processing livestream transcripts into branded YouTube descriptions.
+
+The workflow must support the following three passes:
+
+PASS 1 — EXTRACTION & STRUCTURING
+- Input: raw transcript text.
+- Output: a structured summary containing:
+  - Episode highlights
+  - Key emotional beats
+  - Strategic insights
+  - Notable moments or quotes
+  - Relevant keywords
+  - A one‑sentence core theme
+- Purpose: isolate comprehension and event extraction from writing.
+
+PASS 2 — DESCRIPTION DRAFT (UNBRANDED)
+- Input: structured summary from Pass 1.
+- Output: a clean, narrative, unbranded YouTube description (150–300 words).
+- Requirements:
+  - Strong hook in first 1–2 sentences
+  - Narrative clarity
+  - Emotional and event‑driven flow
+  - Natural keyword integration
+- Purpose: produce a polished draft without applying brand voice.
+
+PASS 3 — BRANDING LAYER (TACTICIAN VOICE)
+- Input: unbranded description from Pass 2.
+- Output: a fully branded version written in the “Tactician” persona.
+- Brand voice characteristics:
+  - Strategic, thoughtful, composed
+  - Veteran RPG player tone
+  - Narrative weight and clarity
+  - No slang or chaotic streamer energy
+- Purpose: apply consistent branding as a final transformation step.
+
+DESIGN GOALS:
+- The workflow should be modular, allowing each pass to be run independently or chained.
+- Each pass should be encapsulated in its own function, class, or module.
+- The system should allow easy swapping or updating of prompts.
+- The architecture should support future expansion (e.g., optional SEO pass, metadata generation).
+- The workflow should be able to run locally or integrate with an existing automation pipeline.
+- Leave room for you to adapt the design to the current architecture, including how prompts are stored, how API calls are made, and how data flows between passes.
+
+DELIVERABLE:
+Propose a Python workflow design that includes:
+- High‑level architecture
+- Module/function layout
+- Data flow between passes
+- Any recommended abstractions or helper utilities
+- Notes on extensibility and maintainability
+
+If any assumptions about the environment, API usage, or data formats are unclear, ask clarifying questions before finalizing the design.

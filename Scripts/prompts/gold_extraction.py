@@ -24,6 +24,13 @@ CATEGORIES:
 - Type B (Clips): 1-5m Narrative beats + Strategic Rationale.
 - Type C (Saga Components): Atmospheric/Combat montages + Theme.
 - Type D (Exile's Map): YouTube Chapters. Start at 0:00. Pacing: {pacing}.
+  CRITICAL YOUTUBE CHAPTER RULES:
+  1. The first timestamp MUST be exactly "00:00"
+  2. The first chapter MUST be named exactly "00:00 Intro" (or similar, but starting with 00:00).
+  3. Chapters must be listed in chronological order.
+  4. Chapters must be at least 10 seconds apart.
+  5. Format timestamps as MM:SS (e.g., "05:12") or HH:MM:SS (e.g., "01:23:45"). NEVER use fractions or decimals (e.g., "05:12.500").
+  6. Each chapter must be on its own line in the format: "[Timestamp] [Title]" (e.g., "05:12 Building the base").
 
 OUTPUT: Summary Table, Editor's Notes, Ledger Entry, and YouTube Chapter list.
 TRANSCRIPT:

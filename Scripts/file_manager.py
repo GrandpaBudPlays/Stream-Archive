@@ -201,8 +201,27 @@ def save_audit_report(transcript_path: str, content: str, report_type: str, mode
     print(f"SUCCESS: {report_type} saved to {save_path}")
 
 
-def parse_cli_args() -> tuple:
+def parse_cli_args() -> tuple[str, str, str]:
     if len(sys.argv) < 3:
-        print("Usage: python audit_pipeline.py S01 E005")
+        print("Usage: python audit_pipeline.py <Operation> <Season> <Episode>")
+        print("Operations: Audit, Feedback, Gold, Describe")
+        print("Example: python audit_pipeline.py Feedback S01 E005")
         sys.exit(1)
-    return sys.argv[1].upper(), sys.argv[2].upper()
+    
+    valid_operations = ["Audit", "Feedback", "Gold", "Describe"]
+    first_arg = sys.argv[1].capitalize()
+    
+    if first_arg in valid_operations:
+        if len(sys.argv) < 4:
+            print("Usage: python audit_pipeline.py <Operation> <Season> <Episode>")
+            sys.exit(1)
+        operation = first_arg
+        season = sys.argv[2].upper()
+        episode = sys.argv[3].upper()
+    else:
+        operation = "Audit"
+        season = sys.argv[1].upper()
+        episode = sys.argv[2].upper()
+        print(f"Warning: Deprecated argument order. Please use: python audit_pipeline.py {operation} {season} {episode}")
+        
+    return season, episode, operation
