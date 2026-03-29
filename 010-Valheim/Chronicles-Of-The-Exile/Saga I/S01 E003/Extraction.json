@@ -1,0 +1,69 @@
+{
+  "events": [
+    {
+      "time": "05:32",
+      "fact": "Crafted a Crude Bow at the workbench.",
+      "importance": "high"
+    },
+    {
+      "time": "09:51",
+      "fact": "Obtained the first boar trophy after hunting in an abandoned village.",
+      "importance": "medium"
+    },
+    {
+      "time": "11:56",
+      "fact": "Acquired a Queen Bee and unlocked the Beehive recipe by destroying an abandoned structure.",
+      "importance": "high"
+    },
+    {
+      "time": "16:31",
+      "fact": "Established a temporary shelter with a bed and campfire for the night.",
+      "importance": "medium"
+    },
+    {
+      "time": "21:26",
+      "fact": "Discovered the Black Forest biome, identified by pine trees.",
+      "importance": "high"
+    },
+    {
+      "time": "27:40",
+      "fact": "Collected the first deer trophy, a requirement for summoning the first boss.",
+      "importance": "medium"
+    },
+    {
+      "time": "28:12",
+      "fact": "Encountered a Troll in the Black Forest and retreated due to lack of preparation.",
+      "importance": "high"
+    },
+    {
+      "time": "29:01",
+      "fact": "Discovered a stone structure identified as a potential burial chamber.",
+      "importance": "medium"
+    },
+    {
+      "time": "37:10",
+      "fact": "Crafted a Wood Shield with a custom red and black style.",
+      "importance": "medium"
+    },
+    {
+      "time": "39:01",
+      "fact": "Crafted a Hoe for landscaping and base preparation.",
+      "importance": "medium"
+    },
+    {
+      "time": "46:01",
+      "fact": "Began construction on a custom 5x3 (standard floor tiles) home base near the Black Forest boundary.",
+      "importance": "high"
+    },
+    {
+      "time": "52:13",
+      "fact": "Installed a fireplace and chimney system in the new home base.",
+      "importance": "medium"
+    },
+    {
+      "time": "56:11",
+      "fact": "Flint axe reached zero durability and required repair during woodcutting.",
+      "importance": "low"
+    }
+  ]
+}

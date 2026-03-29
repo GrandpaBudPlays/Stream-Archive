@@ -18,6 +18,7 @@
 - **The Saga Seal:** "The mead is cold. The hearth is warm. The saga continues. I'm Grandpa and we're playing Valheim."
 - **The Sign-off:** "Have a good one."
 
-**Usage:**
-- **Intros:** Saga Seal only.
-- **Outros/Descriptions:** Saga Seal + Sign-off.
+*## 📝 USAGE & ASSEMBLY RULES
+* **Content Only:** When generating a "Legend" or "Narrative" block, focus strictly on the events of the session. 
+* **No Anchors:** DO NOT include the "Saga Seal" or "Sign-off" in the body of your generated text. These are handled by the assembly engine.
+* **Tone Check:** Ensure the transition from the (externally added) Saga Seal into your first sentence is seamless.

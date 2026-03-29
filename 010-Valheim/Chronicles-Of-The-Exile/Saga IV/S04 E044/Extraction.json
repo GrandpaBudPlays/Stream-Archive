@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "time": "00:04",
+      "fact": "Grandpa Bud begins work at Westshore to establish livestock pens and move boars.",
+      "importance": "medium"
+    },
+    {
+      "time": "05:12",
+      "fact": "Felled an Iron-Bark (oak) tree to gather fine wood and resin.",
+      "importance": "low"
+    },
+    {
+      "time": "15:14",
+      "fact": "Constructed an X-frame chimney on the outbuilding to improve aesthetics and airflow.",
+      "importance": "low"
+    },
+    {
+      "time": "35:56",
+      "fact": "Started digging a moat around the livestock pen, reaching water level.",
+      "importance": "medium"
+    },
+    {
+      "time": "1:07:16",
+      "fact": "Planted several Iron-Bark (oak and birch) saplings near the Westshore build.",
+      "importance": "low"
+    },
+    {
+      "time": "1:18:13",
+      "fact": "Confirmed successful breeding with the birth of three piglets.",
+      "importance": "high"
+    },
+    {
+      "time": "1:24:17",
+      "fact": "Discovered structural damage to the house sustained during a previous raid (The Norns' Trial).",
+      "importance": "medium"
+    },
+    {
+      "time": "1:27:10",
+      "fact": "Milestone: Announced the transition from the Iron Age to the Silver Age by preparing to smelt Frost-Tears (silver).",
+      "importance": "high"
+    }
+  ]
+}

@@ -1,89 +1,99 @@
 {
   "events": [
     {
-      "time": "00:00:49",
-      "fact": "Character 'Conrad' is created with a red mustache and hair.",
+      "time": "01:30",
+      "fact": "Character 'Conrad' created and world 'Terra Conrad' generated.",
       "importance": "low"
     },
     {
-      "time": "00:01:52",
-      "fact": "A new world named 'Terra Conrad' is generated using a random seed.",
+      "time": "04:00",
+      "fact": "Player arrives in Valheim via Valkyrie transport.",
+      "importance": "medium"
+    },
+    {
+      "time": "04:42",
+      "fact": "Player enters the Meadows biome.",
       "importance": "low"
     },
     {
-      "time": "00:04:00",
-      "fact": "A Valkyrie carries the character into the Meadows biome of Valheim.",
+      "time": "05:31",
+      "fact": "Discovered the Vegvisir (boss stone) for Eikthyr, one of the Forsaken.",
       "importance": "high"
     },
     {
-      "time": "00:05:04",
-      "fact": "The character encounters Hugin the raven, who provides world lore and guidance.",
+      "time": "07:02",
+      "fact": "Crafted a wooden club.",
       "importance": "medium"
     },
     {
-      "time": "00:05:31",
-      "fact": "The character discovers a runestone indicating the location of the first boss, Eikthyr.",
+      "time": "07:47",
+      "fact": "First combat encounter: Killed a boar and collected leather scraps.",
+      "importance": "medium"
+    },
+    {
+      "time": "09:52",
+      "fact": "Killed a Neck and collected meat.",
+      "importance": "low"
+    },
+    {
+      "time": "10:12",
+      "fact": "Discovered flint along the water's edge.",
+      "importance": "medium"
+    },
+    {
+      "time": "10:31",
+      "fact": "Crafted a stone axe.",
       "importance": "high"
     },
     {
-      "time": "00:07:02",
-      "fact": "The character crafts a wooden club.",
-      "importance": "medium"
-    },
-    {
-      "time": "00:07:47",
-      "fact": "The character kills a boar and collects leather scraps.",
-      "importance": "medium"
-    },
-    {
-      "time": "00:10:02",
-      "fact": "Flint is gathered along the water's edge.",
-      "importance": "medium"
-    },
-    {
-      "time": "00:10:31",
-      "fact": "The character crafts a stone axe.",
-      "importance": "medium"
-    },
-    {
-      "time": "00:13:54",
-      "fact": "The character reaches the sacrificial altar for the boss Eikthyr.",
+      "time": "13:54",
+      "fact": "Located the sacrificial altar for the first boss, Eikthyr.",
       "importance": "high"
     },
     {
-      "time": "00:17:13",
-      "fact": "The character crafts a hammer, unlocking the ability to build structures.",
+      "time": "17:13",
+      "fact": "Crafted a hammer, unlocking basic building structures.",
       "importance": "high"
     },
     {
-      "time": "00:22:42",
-      "fact": "A campfire is constructed to provide warmth and deter enemies.",
+      "time": "19:46",
+      "fact": "Discovered a ship-shaped rock formation indicating potential buried treasure.",
       "importance": "medium"
     },
     {
-      "time": "00:23:04",
-      "fact": "A workbench is built, unlocking advanced crafting recipes.",
+      "time": "22:12",
+      "fact": "Discovered an abandoned structure containing a beehive (The Golden Ones).",
+      "importance": "medium"
+    },
+    {
+      "time": "22:42",
+      "fact": "Built a campfire.",
+      "importance": "medium"
+    },
+    {
+      "time": "23:04",
+      "fact": "Built a workbench, unlocking advanced crafting and building recipes.",
       "importance": "high"
     },
     {
-      "time": "00:24:16",
-      "fact": "Construction begins on a basic wooden shelter.",
-      "importance": "medium"
-    },
-    {
-      "time": "00:24:48",
-      "fact": "A bed is built and claimed, setting the character's spawn point.",
+      "time": "24:48",
+      "fact": "Built a bed inside a new structure.",
       "importance": "high"
     },
     {
-      "time": "00:28:22",
-      "fact": "The character sleeps through the first night.",
-      "importance": "medium"
+      "time": "25:54",
+      "fact": "Completed the first shelter with a roof to provide 'sheltered' status.",
+      "importance": "high"
     },
     {
-      "time": "00:28:45",
-      "fact": "The character gains the 'Rested' buff, improving health and stamina regeneration.",
-      "importance": "medium"
+      "time": "28:14",
+      "fact": "Set spawn point at the bed and slept through the first night.",
+      "importance": "high"
+    },
+    {
+      "time": "28:32",
+      "fact": "Acquired the 'Rested' buff for the first time.",
+      "importance": "high"
     }
   ]
 }

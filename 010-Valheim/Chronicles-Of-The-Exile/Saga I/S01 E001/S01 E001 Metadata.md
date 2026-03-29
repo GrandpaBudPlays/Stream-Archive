@@ -8,9 +8,9 @@
 * **Location(Biome):** The Meadows
 
 ## 📜 YouTube DESCRIPTION
-The Valkyrie’s wings were the last thing I saw before the Great Green swallowed me whole. My pockets were empty. My hands were cold. But the Allfather doesn't send us to the Tenth World for a vacation.
+The Valkyrie’s wings were the last thing I saw before the Great Green swallowed me whole. My pockets were empty. My hands were cold. But the Allfather doesn't send us to the Tenth World for frolicking about.
 
-Conrad has arrived—red hair, a stout mustache, and a long road of exile ahead of him. In this first chronicle, we land in the Meadows with nothing but our wits. Survival here isn't about being a hero; it's about preparation. We meet the raven, Hugin, locate the altar of the first beast, and race against the sun to put a roof over our heads. The Meadows may look peaceful, but the night has teeth.
+Conrad has arrived—red hair, a stout mustache, and the long road of the exile ahead of him. In this first chronicle, we land in the Meadows with nothing but our wits. Survival here isn't about being a hero; it's about preparation. We meet the raven, Hugin, locate the altar of the first beast, and race against the sun to put a roof over our heads. The Meadows may look peaceful, but the night has teeth.
 
 The Elder’s Lessons:
 

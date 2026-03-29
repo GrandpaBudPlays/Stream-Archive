@@ -1,37 +1,38 @@
 # 🛡️ Gold Extraction Report: S01 E001
 
 ## 📝 Summary Table
-Grandpa begins a fresh Valheim journey with Conrad the Redhead, covering character creation, basic survival mechanics, and the construction of a first-night shelter.
+Grandpa begins his Valheim journey as 'Conrad,' a Viking with a Leonard Skynyrd aesthetic. The episode covers the fundamental mechanics of survival: gathering flint, understanding the three-color food system, and constructing a first-night shelter to secure the 'Rested' buff.
 
 ## 🧠 Editor's Notes
-The content follows a 'Cozy Survival' pacing. Grandpa's explanations of the UI (food forks) and building mechanics (shelter exposure) are high-value segments for new players. The 'Brand Rule' is maintained through his calm, instructional tone.
+The 'Grandpa Plays' brand excels due to its calm, instructional pacing. Strategic focus should be placed on his clear explanations of the UI (like the food forks) which are perfect for 'New Player Guide' style shorts. The narrative tension peaks during the sunset building sequence, providing a natural hook for longer clips.
 
 ## 🪵 Ledger Entry (Narrative Summary)
-> Conrad the Redhead has been dropped into the tenth world by the Valkyrie. Guided by the raven Hugin, Grandpa navigates the Meadows with a steady hand. From the first swing of a stone axe to the strategic consumption of raspberries and mushrooms, this episode serves as a foundational primer for any aspiring Viking. The day concludes with a race against the setting sun to build a functional shelter, proving that even an abandoned hut with a beehive won't stop a determined builder. Conrad rests by the hearth, gaining the vital Rested buff, ready for the trials of the Black Forest to come.
+> The Norns have spun a new thread today as Conrad, a warrior of flame-red hair and a beard that would make a skald weep, descended upon the Meadows. Carried by the Valkyrie, he did not falter. With the steady hands of an elder, he gathered the bones of the earth—stone and branch—to fashion his first tools. He spoke of the 'Seeds' of worlds and the rhythm of the sun, teaching us that a Viking's greatest weapon is not just his axe, but his stomach. He decoded the mystery of the three forks: the yellow for the wind in one's lungs, the red for the blood in one's veins, and the white for the balance between. As the shadows lengthened and the Greylings began their nocturnal prowl, Conrad did not panic. He found the strength to raise a roof of thatch and a hearth of stone. By the time the moon reached its zenith, he had claimed his place in this tenth world, securing the 'Rested' blessing. A humble start, perhaps, but the foundations of a kingdom are always laid in the dirt of the Meadows.
 
 ## ⏱️ YouTube Chapters
-- **00:00** - 00:00 Intro & Character Creation
-- **01:45** - Understanding World Seeds
-- **04:08** - Arriving in the Meadows
-- **06:35** - Crafting Your First Weapon
-- **09:15** - Food Mechanics: Health vs Stamina
-- **11:20** - Gathering Flint & Wood
-- **13:54** - The Altar of Eikthyr
-- **17:12** - Building the Workbench
-- **19:45** - Finding Buried Treasure
-- **22:40** - Surviving the First Night
-- **28:45** - The Importance of the Rested Buff
-- **29:50** - Outro & Day One Wrap-up
+- **0:00:00** - Meet Conrad: Character Creation
+- **0:01:52** - Understanding World Seeds
+- **0:04:10** - The Valkyrie's Descent
+- **0:05:17** - First Tools & Hugin's Advice
+- **0:07:02** - Hunting & Leather Scraps
+- **0:09:25** - The Food System Explained
+- **0:11:10** - Gathering Flint & Upgrading Gear
+- **0:13:54** - Eikthyr's Altar & Tree Lore
+- **0:17:40** - Crafting the Workbench
+- **0:20:24** - Buried Treasure & Beehives
+- **0:22:42** - Building the First Shelter
+- **0:28:14** - The Rested Buff & Day One Wrap-up
 
 ## 🎬 Type A (Shorts)
-- **09:28**: The Secret of the Forks: Explaining Red, White, and Yellow food icons.
-- **14:52**: The Fine Wood Shortcut: How to get advanced wood without a bronze axe.
-- **28:45**: Why the Rested Buff is the most important stat in Valheim.
+- **0:00:49**: The 'Leonard Skynyrd' Viking: A humorous hook showing character customization.
+- **0:09:25**: The Three Forks Rule: A clear, 45-second breakdown of the Valheim food system (Health vs. Stamina).
+- **0:14:24**: The Birch Tree Trap: Explaining why you can't chop certain trees early on and the 'Fine Wood' trick.
 
 ## 📼 Type B (Clips)
-- **04:08**: The First Landing: A narrative beat covering the arrival and gathering the first essential stones and wood.
-- **22:40**: The Nightfall Scramble: A strategic look at building a shelter from scratch while managing stamina and enemy proximity.
+- **0:05:17**: The First Tools: A 3-minute narrative beat covering the transition from bare hands to a stone axe and the first boar hunt.
+- **0:22:42**: Beating the Sunset: A 5-minute sequence showing the strategic construction of a shelter and the mechanics of the 'Sheltered' status.
 
 ## ⚔️ Type C (Arc/Milestone Components)
-- **11:20**: Meadows Mastery: A montage of gathering flint, hunting boars, and increasing core skills.
+- **0:04:10**: Theme: 'Arrival and Awakening' - A montage of the Valkyrie flight and the first steps into the Meadows.
+- **0:28:14**: Theme: 'The First Hearth' - A cozy atmospheric montage of the fire crackling and the transition to the first morning.
 
